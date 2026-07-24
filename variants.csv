@@ -1,0 +1,1001 @@
+AlleleID,Type,Name,GeneSymbol,ClinicalSignificance,Chromosome,Start,Stop,ReviewStatus
+15832,Microsatellite,NM_000038.5(APC):c.730_731delAG,APC,Pathogenic,5,112136974,112136975,"criteria provided, multiple submitters, no conflicts"
+15834,Deletion,NM_000038.6(APC):c.1369del (p.Ser457fs),APC,Pathogenic,5,112157647,112157647,"criteria provided, multiple submitters, no conflicts"
+15835,single nucleotide variant,NM_000038.6(APC):c.1500T>G (p.Tyr500Ter),APC,Pathogenic,5,112162896,112162896,"criteria provided, multiple submitters, no conflicts"
+15836,single nucleotide variant,NM_000038.6(APC):c.1240C>T (p.Arg414Cys),APC,Benign,5,112154969,112154969,reviewed by expert panel
+15837,single nucleotide variant,NM_000038.6(APC):c.904C>T (p.Arg302Ter),APC,Pathogenic/Likely pathogenic,5,112151261,112151261,"criteria provided, multiple submitters, no conflicts"
+15838,single nucleotide variant,NM_000038.6(APC):c.839C>G (p.Ser280Ter),APC,Pathogenic,5,112151196,112151196,"criteria provided, multiple submitters, no conflicts"
+15839,single nucleotide variant,NM_000038.6(APC):c.2138C>G (p.Ser713Ter),APC,Pathogenic,5,112173429,112173429,"criteria provided, multiple submitters, no conflicts"
+15840,single nucleotide variant,NM_000038.6(APC):c.4012C>T (p.Gln1338Ter),APC,Pathogenic,5,112175303,112175303,"criteria provided, multiple submitters, no conflicts"
+15841,single nucleotide variant,NM_000038.6(APC):c.3359G>A (p.Gly1120Glu),APC,Uncertain significance,5,112174650,112174650,"criteria provided, multiple submitters, no conflicts"
+15842,single nucleotide variant,NM_000038.6(APC):c.3199C>T (p.Gln1067Ter),APC,Pathogenic,5,112174490,112174490,"criteria provided, multiple submitters, no conflicts"
+15843,Microsatellite,NM_000038.6(APC):c.509_512del (p.Asp170fs),APC,Pathogenic,5,112111408,112111411,reviewed by expert panel
+15844,Duplication,NM_000038.6(APC):c.1069dup (p.Ile357fs),APC,Pathogenic,5,112154797,112154798,no assertion criteria provided
+15845,single nucleotide variant,NM_000038.6(APC):c.1621C>T (p.Gln541Ter),APC,Pathogenic,5,112163698,112163698,"criteria provided, multiple submitters, no conflicts"
+15846,single nucleotide variant,NM_000038.6(APC):c.1660C>T (p.Arg554Ter),APC,Pathogenic,5,112164586,112164586,"criteria provided, multiple submitters, no conflicts"
+15847,single nucleotide variant,NM_000038.6(APC):c.1690C>T (p.Arg564Ter),APC,Pathogenic,5,112164616,112164616,"criteria provided, multiple submitters, no conflicts"
+15848,Insertion,NM_000038.6(APC):c.1885_1886insA (p.Leu629fs),APC,Pathogenic,5,112170789,112170790,"criteria provided, single submitter"
+15849,single nucleotide variant,NM_000038.6(APC):c.2805C>A (p.Tyr935Ter),APC,Pathogenic,5,112174096,112174096,"criteria provided, multiple submitters, no conflicts"
+15850,Microsatellite,NM_000038.6(APC):c.4393_4394del (p.Ser1465fs),APC,Pathogenic,5,112175676,112175677,reviewed by expert panel
+15851,Microsatellite,NM_000038.6(APC):c.4391_4394del (p.Glu1464fs),APC,Pathogenic,5,112175676,112175679,"criteria provided, multiple submitters, no conflicts"
+15852,single nucleotide variant,NM_000038.6(APC):c.470G>A (p.Trp157Ter),APC,Pathogenic,5,112111373,112111373,"criteria provided, multiple submitters, no conflicts"
+15853,single nucleotide variant,NM_000038.6(APC):c.643C>T (p.Gln215Ter),APC,Pathogenic,5,112116598,112116598,"criteria provided, multiple submitters, no conflicts"
+15854,Deletion,NC_000005.9:g.112172610_112244011del,APC,Pathogenic,5,112172610,112244011,no assertion criteria provided
+15855,Microsatellite,NM_000038.6(APC):c.3927_3931del (p.Glu1309fs),APC,Pathogenic,5,112175212,112175216,reviewed by expert panel
+15856,single nucleotide variant,NM_000038.6(APC):c.4183A>T (p.Ser1395Cys),APC,Pathogenic,5,112175474,112175474,no assertion criteria provided
+15857,Insertion,"APC, 2-BP INS, CODON 1924",APC,Pathogenic,na,-1,-1,no assertion criteria provided
+15859,Deletion,NM_000038.6(APC):c.5942del (p.Asn1981fs),APC,Pathogenic,5,112177232,112177232,no assertion criteria provided
+15860,Deletion,NM_000038.6(APC):c.5582_5585del (p.Asp1860_Ser1861insTer),APC,Pathogenic,5,112176871,112176874,"criteria provided, multiple submitters, no conflicts"
+15861,single nucleotide variant,NM_000038.6(APC):c.3920T>A (p.Ile1307Lys),APC,Conflicting classifications of pathogenicity; association; risk factor,5,112175211,112175211,"criteria provided, conflicting classifications"
+15862,Deletion,NM_000038.6(APC):c.4612_4613del (p.Glu1538fs),APC,Pathogenic,5,112175902,112175903,"criteria provided, multiple submitters, no conflicts"
+15863,single nucleotide variant,NM_000038.6(APC):c.1495C>T (p.Arg499Ter),APC,Pathogenic,5,112162891,112162891,"criteria provided, multiple submitters, no conflicts"
+15864,single nucleotide variant,NM_000038.6(APC):c.1458T>G (p.Tyr486Ter),APC,Pathogenic,5,112162854,112162854,"criteria provided, single submitter"
+15865,Deletion,NM_000038.6(APC):c.1311_1312+1del,APC,Pathogenic,5,112155040,112155042,reviewed by expert panel
+15867,Deletion,NM_000038.6(APC):c.1192_1193del (p.Lys398fs),APC,Pathogenic,5,112154921,112154922,"criteria provided, multiple submitters, no conflicts"
+15868,single nucleotide variant,NM_000038.6(APC):c.3949G>C (p.Glu1317Gln),APC,Benign/Likely benign,5,112175240,112175240,"criteria provided, multiple submitters, no conflicts"
+15870,Deletion,NM_000038.6(APC):c.937_938del (p.Glu313fs),APC,Pathogenic,5,112154666,112154667,"criteria provided, multiple submitters, no conflicts"
+15871,single nucleotide variant,NM_000038.6(APC):c.2093T>A (p.Leu698Ter),APC,Pathogenic,5,112173384,112173384,"criteria provided, single submitter"
+15872,Insertion,NM_000038.5(APC):c.4575_4576insAlu1,APC,Pathogenic,5,112175866,112175867,no assertion criteria provided
+15873,Deletion,APC deletion,APC,Pathogenic,5,112043201,112181937,no assertion criteria provided
+15874,single nucleotide variant,NM_000038.6(APC):c.423-1G>A,APC,Pathogenic,5,112111325,112111325,"criteria provided, multiple submitters, no conflicts"
+15875,Insertion,NM_000038.6(APC):c.1059_1060insAAGGATGATAT (p.Pro354fs),APC,Pathogenic,5,112154787,112154788,no assertion criteria provided
+15876,Deletion,"APC, 4-BP DEL, 7929TCTA",APC,Pathogenic,na,-1,-1,no assertion criteria provided
+15877,Deletion,"APC, 1-BP DEL, 3720T",APC,Pathogenic,na,-1,-1,no assertion criteria provided
+15878,single nucleotide variant,NM_000038.6(APC):c.622C>T (p.Gln208Ter),APC,Pathogenic,5,112116577,112116577,"criteria provided, multiple submitters, no conflicts"
+15879,Deletion,NM_000038.6(APC):c.1695del (p.Val566fs),APC,Pathogenic,5,112164620,112164620,no assertion criteria provided
+15880,Deletion,NG_008481.4:g.(?_150033)_(158719_?)del,APC,Pathogenic,5,112173250,112181936,"criteria provided, single submitter"
+15881,Deletion,"APC, 5-BP DEL, NT3221",APC,Pathogenic,na,-1,-1,no assertion criteria provided
+16792,single nucleotide variant,NM_000251.3(MSH2):c.1865C>T (p.Pro622Leu),MSH2,Pathogenic,2,47702269,47702269,reviewed by expert panel
+16793,Deletion,"MSH2, DEL 50 CODONS",MSH2,Pathogenic,na,-1,-1,no assertion criteria provided
+16794,single nucleotide variant,NM_000251.3(MSH2):c.1216C>T (p.Arg406Ter),MSH2,Pathogenic,2,47657020,47657020,reviewed by expert panel
+16795,single nucleotide variant,NM_000251.3(MSH2):c.1915C>T (p.His639Tyr),MSH2,Pathogenic,2,47702319,47702319,reviewed by expert panel
+16796,Deletion,NM_000251.3(MSH2):c.1786_1788del (p.Asn596del),MSH2,Pathogenic,2,47702190,47702192,reviewed by expert panel
+16797,single nucleotide variant,NM_000251.3(MSH2):c.1801C>T (p.Gln601Ter),MSH2,Pathogenic,2,47702205,47702205,reviewed by expert panel
+16798,single nucleotide variant,NM_000251.3(MSH2):c.1571G>C (p.Arg524Pro),MSH2,Likely pathogenic,2,47693857,47693857,reviewed by expert panel
+16799,Deletion,NM_000251.3(MSH2):c.2113del (p.Val705fs),MSH2,Pathogenic,2,47703613,47703613,reviewed by expert panel
+16800,Duplication,NM_000251.3(MSH2):c.269_290dup (p.Tyr98fs),MSH2,Pathogenic,2,47635595,47635596,reviewed by expert panel
+16801,single nucleotide variant,NM_000251.3(MSH2):c.965G>A (p.Gly322Asp),MSH2,Benign,2,47643457,47643457,reviewed by expert panel
+16803,single nucleotide variant,NM_000251.3(MSH2):c.1906G>C (p.Ala636Pro),MSH2,Pathogenic,2,47702310,47702310,reviewed by expert panel
+16804,Insertion,"MSH2, 24-BP INS",MSH2,Pathogenic,na,-1,-1,no assertion criteria provided
+16807,Deletion,NM_000251.3(MSH2):c.454del (p.Met152fs),MSH2,Pathogenic,2,47637317,47637317,reviewed by expert panel
+16813,Deletion,"MSH2, 32-KB DEL, EX1-6",MSH2,Pathogenic,2,47618487,47650860,no assertion criteria provided
+17253,Deletion,NM_000551.4(VHL):c.223_225del (p.Ile75del),VHL,Pathogenic,3,10183752,10183754,no assertion criteria provided
+17254,single nucleotide variant,NM_000551.4(VHL):c.548C>A (p.Ser183Ter),VHL,Pathogenic,3,10191555,10191555,"criteria provided, multiple submitters, no conflicts"
+17255,single nucleotide variant,NM_000551.4(VHL):c.500G>A (p.Arg167Gln),VHL,Pathogenic,3,10191507,10191507,reviewed by expert panel
+17256,single nucleotide variant,NM_000551.4(VHL):c.481C>T (p.Arg161Ter),VHL,Pathogenic,3,10191488,10191488,"criteria provided, multiple submitters, no conflicts"
+17257,single nucleotide variant,NM_000551.4(VHL):c.499C>T (p.Arg167Trp),VHL,Pathogenic/Likely pathogenic,3,10191506,10191506,"criteria provided, multiple submitters, no conflicts"
+17258,single nucleotide variant,NM_000551.4(VHL):c.499C>G (p.Arg167Gly),VHL,Pathogenic,3,10191506,10191506,"criteria provided, multiple submitters, no conflicts"
+17259,single nucleotide variant,NM_000551.4(VHL):c.263G>C (p.Trp88Ser),VHL,Pathogenic,3,10183794,10183794,no assertion criteria provided
+17260,single nucleotide variant,NM_000551.4(VHL):c.405A>C (p.Leu135Phe),VHL,Pathogenic,3,10188262,10188262,no assertion criteria provided
+17261,single nucleotide variant,NM_000551.4(VHL):c.334T>C (p.Tyr112His),VHL,Pathogenic/Likely pathogenic,3,10183865,10183865,"criteria provided, multiple submitters, no conflicts"
+17262,single nucleotide variant,NM_000551.4(VHL):c.292T>C (p.Tyr98His),VHL,Pathogenic,3,10183823,10183823,"criteria provided, multiple submitters, no conflicts"
+17263,single nucleotide variant,NM_000551.4(VHL):c.496G>T (p.Val166Phe),VHL,Pathogenic,3,10191503,10191503,"criteria provided, multiple submitters, no conflicts"
+17264,single nucleotide variant,NM_000551.4(VHL):c.562C>G (p.Leu188Val),VHL,Uncertain significance,3,10191569,10191569,reviewed by expert panel
+17265,single nucleotide variant,NM_000551.4(VHL):c.191G>C (p.Arg64Pro),VHL,Pathogenic,3,10183722,10183722,reviewed by expert panel
+17266,single nucleotide variant,NM_000551.4(VHL):c.188T>C (p.Leu63Pro),VHL,Uncertain significance,3,10183719,10183719,"criteria provided, multiple submitters, no conflicts"
+17267,single nucleotide variant,NM_000551.4(VHL):c.334T>A (p.Tyr112Asn),VHL,Pathogenic,3,10183865,10183865,"criteria provided, multiple submitters, no conflicts"
+17268,single nucleotide variant,NM_000551.4(VHL):c.388G>C (p.Val130Leu),VHL,Pathogenic,3,10188245,10188245,"criteria provided, multiple submitters, no conflicts"
+17269,single nucleotide variant,NM_000551.4(VHL):c.376G>T (p.Asp126Tyr),VHL,Likely pathogenic,3,10188233,10188233,"criteria provided, single submitter"
+17270,single nucleotide variant,NM_000551.4(VHL):c.488T>C (p.Leu163Pro),VHL,Pathogenic/Likely pathogenic,3,10191495,10191495,"criteria provided, multiple submitters, no conflicts"
+17271,single nucleotide variant,NM_000551.4(VHL):c.598C>T (p.Arg200Trp),VHL,Conflicting classifications of pathogenicity,3,10191605,10191605,"criteria provided, conflicting classifications"
+17272,single nucleotide variant,NM_000551.4(VHL):c.241C>T (p.Pro81Ser),VHL,Benign,3,10183772,10183772,reviewed by expert panel
+17273,single nucleotide variant,NM_000551.4(VHL):c.574C>T (p.Pro192Ser),VHL,Conflicting classifications of pathogenicity,3,10191581,10191581,"criteria provided, conflicting classifications"
+17274,single nucleotide variant,NM_000551.4(VHL):c.571C>G (p.His191Asp),VHL,Likely pathogenic,3,10191578,10191578,"criteria provided, single submitter"
+17275,single nucleotide variant,NM_000551.4(VHL):c.250G>T (p.Val84Leu),VHL,Pathogenic,3,10183781,10183781,"criteria provided, multiple submitters, no conflicts"
+17276,single nucleotide variant,NM_000551.4(VHL):c.277G>A (p.Gly93Ser),VHL,Pathogenic,3,10183808,10183808,"criteria provided, multiple submitters, no conflicts"
+17277,single nucleotide variant,NM_000551.4(VHL):c.491A>G (p.Gln164Arg),VHL,Pathogenic,3,10191498,10191498,"criteria provided, multiple submitters, no conflicts"
+22144,Deletion,NM_000492.3(CFTR):c.1521_1523del (p.Phe508del),CFTR,Pathogenic,7,117199645,117199647,practice guideline
+22145,Microsatellite,NM_000492.4(CFTR):c.1516ATC[1] (p.Ile507del),CFTR,Pathogenic,7,117199641,117199643,practice guideline
+22146,single nucleotide variant,NM_000492.4(CFTR):c.1477C>T (p.Gln493Ter),CFTR,Pathogenic,7,117199602,117199602,reviewed by expert panel
+22147,single nucleotide variant,NM_000492.4(CFTR):c.328G>C (p.Asp110His),CFTR,Pathogenic; drug response,7,117171007,117171007,reviewed by expert panel
+22148,single nucleotide variant,NM_000492.4(CFTR):c.350G>A (p.Arg117His),CFTR,Pathogenic,7,117171029,117171029,practice guideline
+22149,single nucleotide variant,NM_000492.4(CFTR):c.1040G>C (p.Arg347Pro),CFTR,Pathogenic,7,117180324,117180324,practice guideline
+22150,single nucleotide variant,NM_000492.4(CFTR):c.1364C>A (p.Ala455Glu),CFTR,Pathogenic,7,117188849,117188849,practice guideline
+22151,single nucleotide variant,NM_000492.4(CFTR):c.1585-1G>A,CFTR,Pathogenic,7,117227792,117227792,practice guideline
+22152,single nucleotide variant,NM_000492.4(CFTR):c.1679G>C (p.Arg560Thr),CFTR,Pathogenic,7,117227887,117227887,practice guideline
+22153,single nucleotide variant,NM_000492.4(CFTR):c.1687T>A (p.Tyr563Asn),CFTR,Pathogenic,7,117230414,117230414,reviewed by expert panel
+22154,single nucleotide variant,NM_000492.4(CFTR):c.1624G>T (p.Gly542Ter),CFTR,Pathogenic,7,117227832,117227832,practice guideline
+22155,single nucleotide variant,NM_000492.4(CFTR):c.1646G>A (p.Ser549Asn),CFTR,Pathogenic; drug response,7,117227854,117227854,reviewed by expert panel
+22156,single nucleotide variant,NM_000492.4(CFTR):c.1646G>T (p.Ser549Ile),CFTR,Pathogenic,7,117227854,117227854,no assertion criteria provided
+22157,single nucleotide variant,NM_000492.4(CFTR):c.1647T>G (p.Ser549Arg),CFTR,Pathogenic; drug response,7,117227855,117227855,reviewed by expert panel
+22158,single nucleotide variant,NM_000492.4(CFTR):c.1721C>A (p.Pro574His),CFTR,Pathogenic,7,117230448,117230448,reviewed by expert panel
+22159,single nucleotide variant,NM_000492.4(CFTR):c.1652G>A (p.Gly551Asp),CFTR,Pathogenic,7,117227860,117227860,practice guideline
+22161,single nucleotide variant,NM_000492.4(CFTR):c.1657C>T (p.Arg553Ter),CFTR,Pathogenic,7,117227865,117227865,practice guideline
+22162,single nucleotide variant,NM_000492.4(CFTR):c.1675G>A (p.Ala559Thr),CFTR,Pathogenic,7,117227883,117227883,reviewed by expert panel
+22163,Deletion,NM_000492.4(CFTR):c.3659del (p.Thr1220fs),CFTR,Pathogenic,7,117267766,117267766,reviewed by expert panel
+22164,single nucleotide variant,NM_000492.4(CFTR):c.3764C>A (p.Ser1255Ter),CFTR,Pathogenic,7,117282538,117282538,reviewed by expert panel
+22165,single nucleotide variant,NM_000492.4(CFTR):c.1523T>G (p.Phe508Cys),CFTR,Conflicting classifications of pathogenicity,7,117199648,117199648,"criteria provided, conflicting classifications"
+22166,single nucleotide variant,NM_000492.4(CFTR):c.2538G>A (p.Trp846Ter),CFTR,Pathogenic,7,117235031,117235031,reviewed by expert panel
+22167,single nucleotide variant,NM_000492.4(CFTR):c.2738A>G (p.Tyr913Cys),CFTR,Pathogenic/Likely pathogenic,7,117243666,117243666,"criteria provided, multiple submitters, no conflicts"
+22168,single nucleotide variant,NM_000492.4(CFTR):c.3846G>A (p.Trp1282Ter),CFTR,Pathogenic,7,117282620,117282620,practice guideline
+22169,single nucleotide variant,NM_000492.4(CFTR):c.1408G>A (p.Val470Met),CFTR,Benign/Likely benign,7,117199533,117199533,"criteria provided, multiple submitters, no conflicts"
+22170,single nucleotide variant,NM_000492.4(CFTR):c.1516A>G (p.Ile506Val),CFTR,Conflicting classifications of pathogenicity,7,117199641,117199641,"criteria provided, conflicting classifications"
+22171,single nucleotide variant,NM_000492.4(CFTR):c.1373G>T (p.Gly458Val),CFTR,Likely pathogenic,7,117188858,117188858,"criteria provided, multiple submitters, no conflicts"
+22172,single nucleotide variant,NM_000492.4(CFTR):c.3947G>A (p.Trp1316Ter),CFTR,Pathogenic,7,117292969,117292969,"criteria provided, single submitter"
+22173,Microsatellite,NM_000492.4(CFTR):c.1021_1022dup (p.Phe342fs),CFTR,Pathogenic,7,117180302,117180303,reviewed by expert panel
+22174,Deletion,NM_000492.4(CFTR):c.1081del (p.Trp361fs),CFTR,Pathogenic,7,117180365,117180365,reviewed by expert panel
+22175,single nucleotide variant,NM_000492.4(CFTR):c.3909C>G (p.Asn1303Lys),CFTR,Pathogenic,7,117292931,117292931,practice guideline
+22176,single nucleotide variant,NM_000492.4(CFTR):c.3484C>T (p.Arg1162Ter),CFTR,Pathogenic,7,117267591,117267591,practice guideline
+22177,single nucleotide variant,NM_000492.4(CFTR):c.3717+4A>G,CFTR,Pathogenic,7,117267828,117267828,reviewed by expert panel
+22178,single nucleotide variant,NM_000492.4(CFTR):c.1000C>T (p.Arg334Trp),CFTR,Pathogenic,7,117180284,117180284,practice guideline
+22179,Microsatellite,NM_000492.4(CFTR):c.1545_1546del (p.Tyr515_Arg516delinsTer),CFTR,Pathogenic,7,117199667,117199668,reviewed by expert panel
+22180,single nucleotide variant,NM_000492.4(CFTR):c.2551C>T (p.Arg851Ter),CFTR,Pathogenic,7,117235044,117235044,reviewed by expert panel
+22181,single nucleotide variant,NM_000492.4(CFTR):c.1651G>A (p.Gly551Ser),CFTR,Pathogenic; drug response,7,117227859,117227859,reviewed by expert panel
+22182,single nucleotide variant,NM_000492.4(CFTR):c.254G>A (p.Gly85Glu),CFTR,Pathogenic,7,117149177,117149177,practice guideline
+22183,single nucleotide variant,NM_000492.4(CFTR):c.3472C>T (p.Arg1158Ter),CFTR,Pathogenic,7,117267579,117267579,reviewed by expert panel
+22184,Deletion,NM_000492.4(CFTR):c.723_743+1del,CFTR,Pathogenic,7,117175442,117175463,reviewed by expert panel
+22185,Deletion,NM_000492.4(CFTR):c.424del (p.Ile142fs),CFTR,Pathogenic,7,117171103,117171103,reviewed by expert panel
+22186,Deletion,NM_000492.4(CFTR):c.429del (p.Phe143fs),CFTR,Pathogenic,7,117171104,117171104,reviewed by expert panel
+22188,Insertion,NM_000492.4(CFTR):c.2737_2738insG (p.Tyr913Ter),CFTR,Pathogenic,7,117243665,117243666,reviewed by expert panel
+22189,single nucleotide variant,NM_000492.4(CFTR):c.1558G>T (p.Val520Phe),CFTR,Pathogenic,7,117199683,117199683,reviewed by expert panel
+22190,single nucleotide variant,NM_000492.4(CFTR):c.1572C>A (p.Cys524Ter),CFTR,Pathogenic,7,117199697,117199697,reviewed by expert panel
+22191,single nucleotide variant,NM_000492.4(CFTR):c.3873G>C (p.Gln1291His),CFTR,Pathogenic/Likely pathogenic,7,117282647,117282647,"criteria provided, multiple submitters, no conflicts"
+22192,single nucleotide variant,NM_000492.4(CFTR):c.933C>G (p.Phe311Leu),CFTR,Pathogenic,7,117180217,117180217,reviewed by expert panel
+22193,Microsatellite,NM_000492.4(CFTR):c.1093_1094del (p.Leu365fs),CFTR,Pathogenic,7,117180373,117180374,"criteria provided, multiple submitters, no conflicts"
+22194,single nucleotide variant,NM_000492.4(CFTR):c.1475C>T (p.Ser492Phe),CFTR,Pathogenic,7,117199600,117199600,reviewed by expert panel
+22195,single nucleotide variant,NM_000492.4(CFTR):c.1679G>A (p.Arg560Lys),CFTR,Pathogenic,7,117227887,117227887,reviewed by expert panel
+22196,single nucleotide variant,NM_000492.4(CFTR):c.2479G>T (p.Glu827Ter),CFTR,Pathogenic,7,117232700,117232700,"criteria provided, multiple submitters, no conflicts"
+22197,single nucleotide variant,NM_000492.4(CFTR):c.3197G>A (p.Arg1066His),CFTR,Pathogenic,7,117251692,117251692,reviewed by expert panel
+22198,single nucleotide variant,NM_000492.4(CFTR):c.3199G>A (p.Ala1067Thr),CFTR,drug response,7,117251694,117251694,reviewed by expert panel
+22199,single nucleotide variant,NM_000492.4(CFTR):c.3873+1G>A,CFTR,Pathogenic,7,117282648,117282648,reviewed by expert panel
+22200,Duplication,NM_000492.4(CFTR):c.3184_3188dup (p.Trp1063fs),CFTR,Pathogenic,7,117251678,117251679,"criteria provided, single submitter"
+22201,single nucleotide variant,NM_000492.4(CFTR):c.3196C>T (p.Arg1066Cys),CFTR,Pathogenic,7,117251691,117251691,reviewed by expert panel
+22202,Deletion,NM_000492.4(CFTR):c.948del (p.Phe316fs),CFTR,Pathogenic,7,117180230,117180230,reviewed by expert panel
+22203,single nucleotide variant,NM_000492.4(CFTR):c.3808G>A (p.Asp1270Asn),CFTR,Conflicting classifications of pathogenicity,7,117282582,117282582,"criteria provided, conflicting classifications"
+22204,single nucleotide variant,NM_000492.4(CFTR):c.1727G>C (p.Gly576Ala),CFTR,Conflicting classifications of pathogenicity,7,117230454,117230454,"criteria provided, conflicting classifications"
+22205,single nucleotide variant,NM_000492.3(CFTR):c.3718-2477C>T,CFTR,Pathogenic,7,117280015,117280015,practice guideline
+22206,single nucleotide variant,NM_000492.4(CFTR):c.3848G>T (p.Arg1283Met),CFTR,Pathogenic,7,117282622,117282622,reviewed by expert panel
+22207,single nucleotide variant,NM_000492.4(CFTR):c.1766+1G>A,CFTR,Pathogenic,7,117230494,117230494,practice guideline
+22208,single nucleotide variant,NM_000492.4(CFTR):c.1075C>A (p.Gln359Lys),CFTR,Conflicting classifications of pathogenicity,7,117180359,117180359,"criteria provided, conflicting classifications"
+22209,Deletion,NM_000492.4(CFTR):c.744-14_744-3del,CFTR,Pathogenic,7,117176588,117176599,no assertion criteria provided
+22210,single nucleotide variant,NM_000492.4(CFTR):c.1040G>T (p.Arg347Leu),CFTR,Pathogenic/Likely pathogenic,7,117180324,117180324,"criteria provided, multiple submitters, no conflicts"
+22211,single nucleotide variant,NM_000492.4(CFTR):c.1046C>T (p.Ala349Val),CFTR,Uncertain significance,7,117180330,117180330,reviewed by expert panel
+22212,single nucleotide variant,NM_000492.4(CFTR):c.1601C>A (p.Ala534Glu),CFTR,Uncertain significance,7,117227809,117227809,"criteria provided, multiple submitters, no conflicts"
+22213,single nucleotide variant,NM_000492.4(CFTR):c.2146A>T (p.Lys716Ter),CFTR,Pathogenic,7,117232367,117232367,no assertion criteria provided
+22214,single nucleotide variant,NM_000492.4(CFTR):c.2490+1G>A,CFTR,Pathogenic,7,117232712,117232712,reviewed by expert panel
+22215,single nucleotide variant,NM_000492.4(CFTR):c.3712C>T (p.Gln1238Ter),CFTR,Pathogenic/Likely pathogenic,7,117267819,117267819,"criteria provided, multiple submitters, no conflicts"
+22216,single nucleotide variant,NM_000492.4(CFTR):c.3718-1G>A,CFTR,Pathogenic,7,117282491,117282491,reviewed by expert panel
+22217,Duplication,NM_000492.4(CFTR):c.3767dup (p.Leu1258fs),CFTR,Pathogenic,7,117282540,117282541,"criteria provided, single submitter"
+22218,single nucleotide variant,NM_000492.4(CFTR):c.171G>A (p.Trp57Ter),CFTR,Pathogenic,7,117149094,117149094,reviewed by expert panel
+22219,single nucleotide variant,NM_000492.4(CFTR):c.3937C>T (p.Gln1313Ter),CFTR,Pathogenic,7,117292959,117292959,reviewed by expert panel
+22220,single nucleotide variant,NM_000492.4(CFTR):c.274G>A (p.Glu92Lys),CFTR,Pathogenic,7,117170953,117170953,reviewed by expert panel
+22221,single nucleotide variant,NM_000492.4(CFTR):c.1040G>A (p.Arg347His),CFTR,Pathogenic,7,117180324,117180324,reviewed by expert panel
+22222,single nucleotide variant,NM_000492.4(CFTR):c.271G>A (p.Gly91Arg),CFTR,Pathogenic,7,117149194,117149194,reviewed by expert panel
+22223,single nucleotide variant,NM_000492.4(CFTR):c.3857T>C (p.Phe1286Ser),CFTR,Uncertain significance,7,117282631,117282631,"criteria provided, single submitter"
+22224,Duplication,NM_000492.3(CFTR):c.2175dup (p.Glu726Argfs),CFTR,Pathogenic,7,117232394,117232395,reviewed by expert panel
+22225,single nucleotide variant,NM_000492.4(CFTR):c.274G>T (p.Glu92Ter),CFTR,Pathogenic,7,117170953,117170953,reviewed by expert panel
+22226,single nucleotide variant,NM_000492.4(CFTR):c.1438G>T (p.Gly480Cys),CFTR,Pathogenic/Likely pathogenic,7,117199563,117199563,"criteria provided, multiple submitters, no conflicts"
+22227,Deletion,NM_000492.4(CFTR):c.459_476del (p.Ala155_Ile160del),CFTR,Pathogenic,7,117171138,117171155,no assertion criteria provided
+22229,single nucleotide variant,NM_000492.4(CFTR):c.617T>G (p.Leu206Trp),CFTR,Pathogenic; drug response,7,117175339,117175339,reviewed by expert panel
+22230,single nucleotide variant,"CFTR, GLN524HIS",CFTR,Pathogenic,na,-1,-1,no assertion criteria provided
+22231,single nucleotide variant,NM_000492.4(CFTR):c.3763T>C (p.Ser1255Pro),CFTR,Pathogenic; drug response,7,117282537,117282537,reviewed by expert panel
+22232,single nucleotide variant,NM_000492.4(CFTR):c.1013C>T (p.Thr338Ile),CFTR,Pathogenic,7,117180297,117180297,reviewed by expert panel
+22233,single nucleotide variant,NM_000492.4(CFTR):c.3266G>A (p.Trp1089Ter),CFTR,Pathogenic,7,117251761,117251761,reviewed by expert panel
+22235,single nucleotide variant,NM_000492.4(CFTR):c.1666A>G (p.Ile556Val),CFTR,Benign/Likely benign,7,117227874,117227874,"criteria provided, multiple submitters, no conflicts"
+22236,single nucleotide variant,NM_000492.4(CFTR):c.326A>G (p.Tyr109Cys),CFTR,Pathogenic/Likely pathogenic,7,117171005,117171005,"criteria provided, multiple submitters, no conflicts"
+22237,single nucleotide variant,NM_000492.4(CFTR):c.1055G>A (p.Arg352Gln),CFTR,Pathogenic; drug response,7,117180339,117180339,reviewed by expert panel
+22238,single nucleotide variant,NM_000492.4(CFTR):c.273+4A>G,CFTR,Uncertain significance,7,117149200,117149200,"criteria provided, multiple submitters, no conflicts"
+22240,single nucleotide variant,NM_000492.4(CFTR):c.1654C>T (p.Gln552Ter),CFTR,Pathogenic,7,117227862,117227862,reviewed by expert panel
+22241,single nucleotide variant,NM_000492.4(CFTR):c.1943A>T (p.Asp648Val),CFTR,Pathogenic,7,117232164,117232164,no assertion criteria provided
+22242,single nucleotide variant,NM_000492.4(CFTR):c.2128A>T (p.Lys710Ter),CFTR,Pathogenic,7,117232349,117232349,reviewed by expert panel
+22243,single nucleotide variant,NM_000492.4(CFTR):c.2668C>T (p.Gln890Ter),CFTR,Pathogenic,7,117243596,117243596,reviewed by expert panel
+22244,single nucleotide variant,NM_000492.4(CFTR):c.2735C>T (p.Ser912Leu),CFTR,Uncertain significance,7,117243663,117243663,reviewed by expert panel
+22245,Microsatellite,NM_000492.4(CFTR):c.805_806del (p.Ile269fs),CFTR,Pathogenic,7,117176661,117176662,no assertion criteria provided
+22246,single nucleotide variant,NM_000492.4(CFTR):c.2845C>T (p.His949Tyr),CFTR,Uncertain significance,7,117243773,117243773,"criteria provided, single submitter"
+22247,single nucleotide variant,NM_000492.4(CFTR):c.3194T>C (p.Leu1065Pro),CFTR,Pathogenic,7,117251689,117251689,reviewed by expert panel
+22248,single nucleotide variant,NM_000492.4(CFTR):c.3212A>C (p.Gln1071Pro),CFTR,Likely pathogenic,7,117251707,117251707,"criteria provided, multiple submitters, no conflicts"
+22249,single nucleotide variant,NM_000492.4(CFTR):c.3254A>G (p.His1085Arg),CFTR,Pathogenic/Likely pathogenic,7,117251749,117251749,"criteria provided, multiple submitters, no conflicts"
+22250,single nucleotide variant,NM_000492.4(CFTR):c.3276C>G (p.Tyr1092Ter),CFTR,Pathogenic,7,117251771,117251771,reviewed by expert panel
+22251,single nucleotide variant,NM_000492.4(CFTR):c.3611G>A (p.Trp1204Ter),CFTR,Pathogenic,7,117267718,117267718,reviewed by expert panel
+22252,Deletion,NM_000492.4(CFTR):c.1083del (p.Trp361fs),CFTR,Pathogenic,7,117180366,117180366,"criteria provided, multiple submitters, no conflicts"
+22253,single nucleotide variant,NM_000492.4(CFTR):c.3659C>T (p.Thr1220Ile),CFTR,Conflicting classifications of pathogenicity,7,117267766,117267766,"criteria provided, conflicting classifications"
+22254,single nucleotide variant,NM_000492.4(CFTR):c.3700A>G (p.Ile1234Val),CFTR,Pathogenic,7,117267807,117267807,reviewed by expert panel
+22255,single nucleotide variant,NM_000492.4(CFTR):c.3746G>A (p.Gly1249Glu),CFTR,Conflicting classifications of pathogenicity,7,117282520,117282520,"criteria provided, conflicting classifications"
+22256,single nucleotide variant,NM_000492.4(CFTR):c.3752G>A (p.Ser1251Asn),CFTR,Pathogenic; drug response,7,117282526,117282526,reviewed by expert panel
+22257,single nucleotide variant,NM_000492.4(CFTR):c.3907A>C (p.Asn1303His),CFTR,Pathogenic,7,117292929,117292929,no assertion criteria provided
+22258,Deletion,NM_000492.4(CFTR):c.1477_1478del (p.Gln493fs),CFTR,Pathogenic,7,117199602,117199603,reviewed by expert panel
+22259,Deletion,NM_000492.4(CFTR):c.2291del (p.Arg764fs),CFTR,Pathogenic,7,117232512,117232512,"criteria provided, single submitter"
+22260,Deletion,NM_000492.4(CFTR):c.3161del (p.His1054fs),CFTR,Pathogenic,7,117251656,117251656,"criteria provided, multiple submitters, no conflicts"
+22261,Duplication,NM_000492.4(CFTR):c.3532_3535dup (p.Thr1179fs),CFTR,Pathogenic,7,117267638,117267639,reviewed by expert panel
+22262,single nucleotide variant,NM_000492.4(CFTR):c.4364C>G (p.Ser1455Ter),CFTR,Pathogenic/Likely pathogenic,7,117307083,117307083,"criteria provided, multiple submitters, no conflicts"
+22264,single nucleotide variant,NM_000492.4(CFTR):c.1658G>A (p.Arg553Gln),CFTR,Uncertain significance,7,117227866,117227866,"criteria provided, multiple submitters, no conflicts"
+22265,single nucleotide variant,NM_000492.3(CFTR):c.-102A=,CFTR,Pathogenic,7,117120047,117120047,no assertion criteria provided
+22266,Deletion,NG_016465.3:g.(37526_37529)_(58606_58609)del,CFTR,Pathogenic,7,117138363,117159446,no assertion criteria provided
+22267,single nucleotide variant,NM_000492.4(CFTR):c.3469-20T>C,CFTR,Benign/Likely benign,7,117267556,117267556,"criteria provided, multiple submitters, no conflicts"
+22268,single nucleotide variant,NM_000492.4(CFTR):c.2991G>C (p.Leu997Phe),CFTR,Conflicting classifications of pathogenicity,7,117250575,117250575,"criteria provided, conflicting classifications"
+22269,Duplication,NM_000492.4(CFTR):c.3492dup (p.Lys1165Ter),CFTR,Pathogenic,7,117267596,117267597,"criteria provided, multiple submitters, no conflicts"
+22270,Deletion,NM_000492.4(CFTR):c.3744del (p.Lys1250fs),CFTR,Pathogenic,7,117282518,117282518,reviewed by expert panel
+22271,Deletion,NM_000492.4(CFTR):c.262_263del (p.Leu88fs),CFTR,Pathogenic,7,117149182,117149183,reviewed by expert panel
+22273,Variation,A445E,CFTR,Pathogenic,na,-1,-1,no assertion criteria provided
+22274,single nucleotide variant,NM_000492.4(CFTR):c.19G>T (p.Glu7Ter),CFTR,Pathogenic,7,117120167,117120167,"criteria provided, single submitter"
+22275,Duplication,NM_000492.4(CFTR):c.860dup (p.Asn287fs),CFTR,Pathogenic,7,117176714,117176715,no assertion criteria provided
+22276,single nucleotide variant,NM_000492.4(CFTR):c.4056G>C (p.Gln1352His),CFTR,Conflicting classifications of pathogenicity,7,117304834,117304834,"criteria provided, conflicting classifications"
+22277,single nucleotide variant,NM_000492.4(CFTR):c.650A>G (p.Glu217Gly),CFTR,Conflicting classifications of pathogenicity,7,117175372,117175372,"criteria provided, conflicting classifications"
+22278,single nucleotide variant,NM_000492.4(CFTR):c.3731G>T (p.Gly1244Val),CFTR,Likely pathogenic,7,117282505,117282505,"criteria provided, single submitter"
+22279,single nucleotide variant,NM_000492.4(CFTR):c.1682C>A (p.Ala561Glu),CFTR,Pathogenic,7,117230409,117230409,reviewed by expert panel
+22851,single nucleotide variant,NM_000314.8(PTEN):c.386G>A (p.Gly129Glu),PTEN,Pathogenic/Likely pathogenic,10,89692902,89692902,"criteria provided, multiple submitters, no conflicts"
+22852,single nucleotide variant,NM_000314.8(PTEN):c.697C>T (p.Arg233Ter),PTEN,Pathogenic/Likely pathogenic,10,89717672,89717672,"criteria provided, multiple submitters, no conflicts"
+22853,single nucleotide variant,NM_000314.8(PTEN):c.469G>T (p.Glu157Ter),PTEN,Pathogenic,10,89692985,89692985,reviewed by expert panel
+22854,single nucleotide variant,NM_000314.8(PTEN):c.510T>A (p.Ser170Arg),PTEN,Pathogenic,10,89711892,89711892,reviewed by expert panel
+22855,single nucleotide variant,NM_000314.8(PTEN):c.368A>G (p.His123Arg),PTEN,Pathogenic,10,89692884,89692884,reviewed by expert panel
+22856,single nucleotide variant,NM_000314.8(PTEN):c.370T>C (p.Cys124Arg),PTEN,Pathogenic,10,89692886,89692886,reviewed by expert panel
+22857,Deletion,NM_000314.8(PTEN):c.347_351del (p.Asp116fs),PTEN,Pathogenic,10,89692863,89692867,"criteria provided, multiple submitters, no conflicts"
+22858,single nucleotide variant,NM_000314.8(PTEN):c.388C>T (p.Arg130Ter),PTEN,Pathogenic,10,89692904,89692904,"criteria provided, multiple submitters, no conflicts"
+22859,single nucleotide variant,NM_000314.8(PTEN):c.253+1G>A,PTEN,Pathogenic,10,89690847,89690847,"criteria provided, multiple submitters, no conflicts"
+22860,single nucleotide variant,NM_000314.8(PTEN):c.492+2T>G,PTEN,Pathogenic,10,89693010,89693010,reviewed by expert panel
+22861,Deletion,NM_000314.8(PTEN):c.696del (p.Arg233fs),PTEN,Likely pathogenic,10,89717671,89717671,reviewed by expert panel
+22862,Deletion,NM_000314.8(PTEN):c.586del (p.His196fs),PTEN,Pathogenic,10,89711968,89711968,reviewed by expert panel
+22863,Indel,NM_000314.8(PTEN):c.534_535delinsAT (p.Tyr178_Ser179delinsTer),PTEN,Pathogenic,10,89711916,89711917,reviewed by expert panel
+22864,single nucleotide variant,NM_000314.8(PTEN):c.104T>G (p.Met35Arg),PTEN,Pathogenic,10,89653806,89653806,reviewed by expert panel
+22865,single nucleotide variant,NM_000314.8(PTEN):c.209T>C (p.Leu70Pro),PTEN,Likely pathogenic,10,89685314,89685314,reviewed by expert panel
+22866,single nucleotide variant,NM_000314.8(PTEN):c.640C>T (p.Gln214Ter),PTEN,Pathogenic,10,89717615,89717615,"criteria provided, multiple submitters, no conflicts"
+22867,single nucleotide variant,NM_000314.8(PTEN):c.766G>T (p.Glu256Ter),PTEN,Pathogenic,10,89717741,89717741,reviewed by expert panel
+22868,single nucleotide variant,NM_000314.8(PTEN):c.389G>A (p.Arg130Gln),PTEN,Pathogenic,10,89692905,89692905,reviewed by expert panel
+22869,Deletion,NM_000314.8(PTEN):c.761_765del (p.Lys254fs),PTEN,Likely pathogenic,10,89717735,89717739,reviewed by expert panel
+22870,single nucleotide variant,NM_000314.8(PTEN):c.564T>A (p.Tyr188Ter),PTEN,Likely pathogenic,10,89711946,89711946,reviewed by expert panel
+22871,single nucleotide variant,NM_000314.8(PTEN):c.335T>C (p.Leu112Pro),PTEN,Pathogenic,10,89692851,89692851,"criteria provided, multiple submitters, no conflicts"
+22872,single nucleotide variant,NM_000314.8(PTEN):c.1003C>T (p.Arg335Ter),PTEN,Pathogenic,10,89720852,89720852,reviewed by expert panel
+22873,Duplication,NM_000314.8(PTEN):c.40dup (p.Arg14fs),PTEN,Pathogenic,10,89624262,89624263,reviewed by expert panel
+22874,Variation,C124S,PTEN,Pathogenic,na,-1,-1,no assertion criteria provided
+22875,single nucleotide variant,NM_000314.8(PTEN):c.633C>A (p.Cys211Ter),PTEN,Pathogenic,10,89712015,89712015,"criteria provided, multiple submitters, no conflicts"
+22876,single nucleotide variant,NM_000314.8(PTEN):c.55G>A (p.Asp19Asn),PTEN,Uncertain significance,10,89624281,89624281,"criteria provided, multiple submitters, no conflicts"
+22877,single nucleotide variant,NM_000314.8(PTEN):c.649G>A (p.Val217Ile),PTEN,Uncertain significance,10,89717624,89717624,"criteria provided, multiple submitters, no conflicts"
+22878,Deletion,NC_000010.11:g.87960894del,PTEN,Likely pathogenic,10,89720650,89720650,reviewed by expert panel
+22879,single nucleotide variant,NM_000314.8(PTEN):c.701G>A (p.Arg234Gln),PTEN,Uncertain significance,10,89717676,89717676,reviewed by expert panel
+22880,single nucleotide variant,NM_000314.8(PTEN):c.181C>G (p.His61Asp),PTEN,Likely pathogenic,10,89685286,89685286,reviewed by expert panel
+22881,single nucleotide variant,NM_000314.8(PTEN):c.362C>G (p.Ala121Gly),PTEN,Uncertain significance,10,89692878,89692878,"criteria provided, single submitter"
+22882,Deletion,NM_000314.8(PTEN):c.507del (p.Ser170fs),PTEN,Pathogenic,10,89711887,89711887,reviewed by expert panel
+22883,single nucleotide variant,NM_000314.8(PTEN):c.-765G>A,PTEN,Uncertain significance,10,89623462,89623462,reviewed by expert panel
+22884,single nucleotide variant,NM_000314.8(PTEN):c.-862G>T,PTEN,Uncertain significance,10,89623365,89623365,reviewed by expert panel
+22885,Deletion,"PTEN, DEL",PTEN,Pathogenic,na,-1,-1,no assertion criteria provided
+22886,Deletion,NM_000314.8(PTEN):c.180del (p.Lys60fs),PTEN,Pathogenic,10,89685285,89685285,no assertion criteria provided
+22887,single nucleotide variant,NM_000314.8(PTEN):c.278A>G (p.His93Arg),PTEN,Pathogenic,10,89692794,89692794,reviewed by expert panel
+22888,single nucleotide variant,NM_000314.8(PTEN):c.755A>G (p.Asp252Gly),PTEN,Pathogenic,10,89717730,89717730,reviewed by expert panel
+22889,single nucleotide variant,NM_000314.8(PTEN):c.722T>C (p.Phe241Ser),PTEN,Likely pathogenic,10,89717697,89717697,reviewed by expert panel
+22890,Insertion,"PTEN, 1-BP INS, 519T",PTEN,Pathogenic,na,-1,-1,no assertion criteria provided
+22891,single nucleotide variant,NM_000314.8(PTEN):c.395G>T (p.Gly132Val),PTEN,Pathogenic/Likely pathogenic,10,89692911,89692911,"criteria provided, multiple submitters, no conflicts"
+24356,Deletion,NM_000059.4(BRCA2):c.7004_7007+2del,BRCA2,Pathogenic,13,32921029,32921034,"criteria provided, multiple submitters, no conflicts"
+24357,Deletion,NM_000059.4(BRCA2):c.6275_6276del (p.Leu2092fs),BRCA2,Pathogenic,13,32914767,32914768,reviewed by expert panel
+24358,Deletion,NM_000059.4(BRCA2):c.6591_6592del (p.Glu2198fs),BRCA2,Pathogenic,13,32915083,32915084,reviewed by expert panel
+24359,Microsatellite,NM_000059.4(BRCA2):c.5722_5723del (p.Leu1908fs),BRCA2,Pathogenic,13,32914210,32914211,reviewed by expert panel
+24361,Deletion,NM_000059.3(BRCA2):c.2808_2811del (p.Ala938Profs),BRCA2,Pathogenic,13,32911298,32911301,reviewed by expert panel
+24363,Microsatellite,NM_000059.4(BRCA2):c.3901ACT[1] (p.Thr1302del),BRCA2,Benign,13,32912393,32912395,reviewed by expert panel
+24364,Deletion,NM_000059.4(BRCA2):c.5946del (p.Ser1982fs),BRCA2,Pathogenic,13,32914438,32914438,reviewed by expert panel
+24365,Deletion,NM_000059.4(BRCA2):c.771_775del (p.Asn257fs),BRCA2,Pathogenic,13,32905141,32905145,reviewed by expert panel
+24367,Microsatellite,NM_000059.4(BRCA2):c.8537_8538del (p.Glu2846fs),BRCA2,Pathogenic,13,32945138,32945139,reviewed by expert panel
+24368,single nucleotide variant,NM_000059.4(BRCA2):c.1114A>C (p.Asn372His),BRCA2,Benign,13,32906729,32906729,reviewed by expert panel
+24378,single nucleotide variant,NM_000059.4(BRCA2):c.8732C>A (p.Ala2911Glu),BRCA2,Uncertain significance,13,32950906,32950906,"criteria provided, single submitter"
+24379,single nucleotide variant,NM_000059.4(BRCA2):c.8165C>G (p.Thr2722Arg),BRCA2,Pathogenic,13,32937504,32937504,reviewed by expert panel
+24381,Deletion,NM_000059.4(BRCA2):c.658_659del (p.Val220fs),BRCA2,Pathogenic,13,32903605,32903606,reviewed by expert panel
+24382,single nucleotide variant,NM_000059.4(BRCA2):c.8219T>A (p.Leu2740Ter),BRCA2,Pathogenic,13,32937558,32937558,reviewed by expert panel
+24383,single nucleotide variant,NM_000059.4(BRCA2):c.4648G>T (p.Glu1550Ter),BRCA2,Pathogenic,13,32913140,32913140,reviewed by expert panel
+24384,single nucleotide variant,NM_000059.4(BRCA2):c.7529T>C (p.Leu2510Pro),BRCA2,Pathogenic/Likely pathogenic,13,32930658,32930658,"criteria provided, multiple submitters, no conflicts"
+24385,single nucleotide variant,NM_000059.4(BRCA2):c.5645C>G (p.Ser1882Ter),BRCA2,Pathogenic,13,32914137,32914137,reviewed by expert panel
+24386,single nucleotide variant,NM_000059.4(BRCA2):c.9196C>T (p.Gln3066Ter),BRCA2,Pathogenic,13,32954222,32954222,reviewed by expert panel
+24387,single nucleotide variant,NM_000059.4(BRCA2):c.631+1G>A,BRCA2,Pathogenic,13,32900751,32900751,"criteria provided, multiple submitters, no conflicts"
+24388,single nucleotide variant,NM_000059.4(BRCA2):c.631+2T>G,BRCA2,Pathogenic,13,32900752,32900752,reviewed by expert panel
+27386,single nucleotide variant,NM_000546.6(TP53):c.742C>T (p.Arg248Trp),TP53,Pathogenic,17,7577539,7577539,reviewed by expert panel
+27387,single nucleotide variant,NM_000546.6(TP53):c.772G>A (p.Glu258Lys),TP53,Pathogenic/Likely pathogenic,17,7577509,7577509,"criteria provided, multiple submitters, no conflicts"
+27388,single nucleotide variant,NM_000546.6(TP53):c.733G>T (p.Gly245Cys),TP53,Pathogenic,17,7577548,7577548,"criteria provided, multiple submitters, no conflicts"
+27389,single nucleotide variant,NM_000546.6(TP53):c.755T>C (p.Leu252Pro),TP53,Conflicting classifications of pathogenicity,17,7577526,7577526,"criteria provided, conflicting classifications"
+27390,single nucleotide variant,NM_000546.6(TP53):c.215C>G (p.Pro72Arg),TP53,Benign,17,7579472,7579472,reviewed by expert panel
+27391,single nucleotide variant,NM_000546.6(TP53):c.747G>T (p.Arg249Ser),TP53,Pathogenic/Likely pathogenic,17,7577534,7577534,"criteria provided, multiple submitters, no conflicts"
+27392,single nucleotide variant,NM_000546.6(TP53):c.469G>T (p.Val157Phe),TP53,Pathogenic/Likely pathogenic,17,7578461,7578461,"criteria provided, multiple submitters, no conflicts"
+27393,single nucleotide variant,NM_000546.6(TP53):c.725G>A (p.Cys242Tyr),TP53,Pathogenic/Likely pathogenic,17,7577556,7577556,"criteria provided, multiple submitters, no conflicts"
+27394,single nucleotide variant,NM_000546.6(TP53):c.734G>A (p.Gly245Asp),TP53,Pathogenic/Likely pathogenic,17,7577547,7577547,"criteria provided, multiple submitters, no conflicts"
+27395,single nucleotide variant,NM_000546.6(TP53):c.743G>A (p.Arg248Gln),TP53,Pathogenic,17,7577538,7577538,reviewed by expert panel
+27396,single nucleotide variant,NM_000546.6(TP53):c.398T>C (p.Met133Thr),TP53,Pathogenic,17,7578532,7578532,"criteria provided, multiple submitters, no conflicts"
+27397,single nucleotide variant,NM_000546.6(TP53):c.814G>T (p.Val272Leu),TP53,Pathogenic/Likely pathogenic,17,7577124,7577124,"criteria provided, multiple submitters, no conflicts"
+27398,single nucleotide variant,NM_000546.6(TP53):c.722C>T (p.Ser241Phe),TP53,Pathogenic/Likely pathogenic,17,7577559,7577559,"criteria provided, multiple submitters, no conflicts"
+27400,Deletion,NM_000546.6(TP53):c.628_629del (p.Asn210fs),TP53,Pathogenic,17,7578220,7578221,no assertion criteria provided
+27402,single nucleotide variant,NM_000546.6(TP53):c.358A>T (p.Lys120Ter),TP53,Pathogenic,17,7579329,7579329,"criteria provided, single submitter"
+27403,single nucleotide variant,NM_000546.6(TP53):c.844C>T (p.Arg282Trp),TP53,Pathogenic/Likely pathogenic,17,7577094,7577094,"criteria provided, multiple submitters, no conflicts"
+27404,single nucleotide variant,NM_000546.6(TP53):c.733G>A (p.Gly245Ser),TP53,Pathogenic,17,7577548,7577548,reviewed by expert panel
+27405,single nucleotide variant,NM_000546.6(TP53):c.818G>A (p.Arg273His),TP53,Pathogenic,17,7577120,7577120,reviewed by expert panel
+27406,single nucleotide variant,NM_000546.6(TP53):c.974G>T (p.Gly325Val),TP53,Conflicting classifications of pathogenicity,17,7576872,7576872,"criteria provided, conflicting classifications"
+27407,single nucleotide variant,NM_000546.6(TP53):c.839G>C (p.Arg280Thr),TP53,Pathogenic/Likely pathogenic,17,7577099,7577099,"criteria provided, multiple submitters, no conflicts"
+27408,single nucleotide variant,NM_000546.6(TP53):c.451C>A (p.Pro151Thr),TP53,Pathogenic/Likely pathogenic,17,7578479,7578479,"criteria provided, multiple submitters, no conflicts"
+27409,single nucleotide variant,NM_000546.6(TP53):c.451C>T (p.Pro151Ser),TP53,Pathogenic/Likely pathogenic,17,7578479,7578479,"criteria provided, multiple submitters, no conflicts"
+27410,single nucleotide variant,NM_000546.6(TP53):c.105G>T (p.Leu35Phe),TP53,Uncertain significance,17,7579582,7579582,reviewed by expert panel
+27411,single nucleotide variant,NM_000546.6(TP53):c.770T>A (p.Leu257Gln),TP53,Conflicting classifications of pathogenicity,17,7577511,7577511,"criteria provided, conflicting classifications"
+27412,Deletion,"TP53, 1-BP DEL, CODON 257",TP53,Pathogenic,na,-1,-1,no assertion criteria provided
+27413,single nucleotide variant,NM_000546.6(TP53):c.524G>A (p.Arg175His),TP53,Pathogenic,17,7578406,7578406,reviewed by expert panel
+27414,single nucleotide variant,NM_000546.6(TP53):c.1031T>C (p.Leu344Pro),TP53,Likely pathogenic,17,7573996,7573996,reviewed by expert panel
+27415,single nucleotide variant,NM_000546.6(TP53):c.412G>C (p.Ala138Pro),TP53,Likely pathogenic,17,7578518,7578518,reviewed by expert panel
+27416,Deletion,NM_000546.6(TP53):c.532del (p.His178fs),TP53,Pathogenic,17,7578398,7578398,"criteria provided, multiple submitters, no conflicts"
+27417,single nucleotide variant,NM_000546.6(TP53):c.875A>T (p.Lys292Ile),TP53,Uncertain significance,17,7577063,7577063,"criteria provided, multiple submitters, no conflicts"
+27418,single nucleotide variant,NM_000546.6(TP53):c.1010G>A (p.Arg337His),TP53,"Pathogenic/Likely pathogenic/Pathogenic, low penetrance",17,7574017,7574017,"criteria provided, multiple submitters, no conflicts"
+27419,Duplication,NM_000546.6(TP53):c.475_481dup (p.Ala161fs),TP53,Pathogenic,17,7578448,7578449,no assertion criteria provided
+27420,Indel,"TP53, 11-BP DEL/5-BP INS",TP53,Pathogenic,na,-1,-1,no assertion criteria provided
+27421,single nucleotide variant,NM_000546.6(TP53):c.566C>T (p.Ala189Val),TP53,Conflicting classifications of pathogenicity,17,7578283,7578283,"criteria provided, conflicting classifications"
+27422,single nucleotide variant,NM_000546.6(TP53):c.659A>C (p.Tyr220Ser),TP53,Pathogenic,17,7578190,7578190,"criteria provided, multiple submitters, no conflicts"
+27423,single nucleotide variant,NM_000546.6(TP53):c.854A>T (p.Glu285Val),TP53,Pathogenic,17,7577084,7577084,"criteria provided, single submitter"
+27617,single nucleotide variant,NM_004985.5(KRAS):c.34G>T (p.Gly12Cys),KRAS,Likely pathogenic,12,25398285,25398285,"criteria provided, single submitter"
+27618,single nucleotide variant,NM_004985.5(KRAS):c.34G>C (p.Gly12Arg),KRAS,Pathogenic/Likely pathogenic,12,25398285,25398285,"criteria provided, multiple submitters, no conflicts"
+27619,single nucleotide variant,NM_004985.5(KRAS):c.38G>A (p.Gly13Asp),KRAS,Pathogenic,12,25398281,25398281,"criteria provided, multiple submitters, no conflicts"
+27620,single nucleotide variant,NM_033360.4(KRAS):c.175G>A (p.Ala59Thr),KRAS,Pathogenic,12,25380283,25380283,no assertion criteria provided
+27621,single nucleotide variant,NM_004985.5(KRAS):c.35G>A (p.Gly12Asp),KRAS,Pathogenic/Likely pathogenic,12,25398284,25398284,"criteria provided, multiple submitters, no conflicts"
+27622,single nucleotide variant,NM_004985.5(KRAS):c.35G>T (p.Gly12Val),KRAS,Pathogenic,12,25398284,25398284,"criteria provided, multiple submitters, no conflicts"
+27623,single nucleotide variant,NM_004985.5(KRAS):c.34G>A (p.Gly12Ser),KRAS,Pathogenic,12,25398285,25398285,"criteria provided, multiple submitters, no conflicts"
+27624,Duplication,NM_033360.4(KRAS):c.27_29dup (p.Gly10dup),KRAS,Pathogenic,12,25398289,25398290,no assertion criteria provided
+27625,single nucleotide variant,NM_004985.5(KRAS):c.178G>C (p.Gly60Arg),KRAS,Pathogenic,12,25380280,25380280,reviewed by expert panel
+27626,single nucleotide variant,NM_004985.5(KRAS):c.458A>T (p.Asp153Val),KRAS,Pathogenic,12,25362838,25362838,reviewed by expert panel
+27627,single nucleotide variant,NM_004985.5(KRAS):c.173C>T (p.Thr58Ile),KRAS,Pathogenic,12,25380285,25380285,reviewed by expert panel
+27628,single nucleotide variant,NM_004985.5(KRAS):c.40G>A (p.Val14Ile),KRAS,Pathogenic,12,25398279,25398279,reviewed by expert panel
+27629,single nucleotide variant,NM_004985.5(KRAS):c.101C>G (p.Pro34Arg),KRAS,Pathogenic/Likely pathogenic,12,25398218,25398218,"criteria provided, multiple submitters, no conflicts"
+27630,single nucleotide variant,NM_033360.4(KRAS):c.*9T>G,KRAS,Pathogenic,12,25362841,25362841,no assertion criteria provided
+27632,single nucleotide variant,NM_004985.5(KRAS):c.37G>C (p.Gly13Arg),KRAS,Pathogenic,12,25398282,25398282,"criteria provided, single submitter"
+27633,single nucleotide variant,NM_033360.4(KRAS):c.15A>T (p.Lys5Asn),KRAS,Pathogenic,12,25398304,25398304,reviewed by expert panel
+27634,single nucleotide variant,NM_033360.4(KRAS):c.*22C>G,KRAS,Pathogenic,12,25362828,25362828,"criteria provided, multiple submitters, no conflicts"
+27635,single nucleotide variant,NM_004985.5(KRAS):c.13A>G (p.Lys5Glu),KRAS,Pathogenic/Likely pathogenic,12,25398306,25398306,"criteria provided, multiple submitters, no conflicts"
+27636,single nucleotide variant,NM_033360.4(KRAS):c.178G>A (p.Gly60Ser),KRAS,Pathogenic,12,25380280,25380280,"criteria provided, multiple submitters, no conflicts"
+28691,single nucleotide variant,NM_006218.4(PIK3CA):c.3140A>G (p.His1047Arg),PIK3CA,Pathogenic,3,178952085,178952085,reviewed by expert panel
+28692,single nucleotide variant,NM_006218.4(PIK3CA):c.3140A>T (p.His1047Leu),PIK3CA,Pathogenic,3,178952085,178952085,"criteria provided, multiple submitters, no conflicts"
+28693,single nucleotide variant,NM_006218.4(PIK3CA):c.1636C>G (p.Gln546Glu),PIK3CA,Likely pathogenic,3,178936094,178936094,"criteria provided, single submitter"
+28694,single nucleotide variant,NM_006218.4(PIK3CA):c.1633G>A (p.Glu545Lys),PIK3CA,Pathogenic/Likely pathogenic,3,178936091,178936091,"criteria provided, multiple submitters, no conflicts"
+28695,single nucleotide variant,NM_006218.4(PIK3CA):c.1634A>G (p.Glu545Gly),PIK3CA,Pathogenic,3,178936092,178936092,"criteria provided, single submitter"
+28696,single nucleotide variant,NM_006218.4(PIK3CA):c.1636C>A (p.Gln546Lys),PIK3CA,Pathogenic,3,178936094,178936094,"criteria provided, multiple submitters, no conflicts"
+28697,Duplication,NM_006218.4(PIK3CA):c.3203dup (p.Asn1068fs),PIK3CA,Likely pathogenic,3,178952146,178952147,"criteria provided, single submitter"
+28698,single nucleotide variant,NM_006218.4(PIK3CA):c.1634A>C (p.Glu545Ala),PIK3CA,Pathogenic,3,178936092,178936092,"criteria provided, multiple submitters, no conflicts"
+28938,single nucleotide variant,NM_002524.5(NRAS):c.37G>C (p.Gly13Arg),NRAS,Likely pathogenic,1,115258745,115258745,"criteria provided, multiple submitters, no conflicts"
+28939,single nucleotide variant,NM_002524.5(NRAS):c.182A>G (p.Gln61Arg),NRAS,Pathogenic,1,115256529,115256529,"criteria provided, multiple submitters, no conflicts"
+28940,single nucleotide variant,NM_002524.5(NRAS):c.38G>A (p.Gly13Asp),NRAS,Pathogenic/Likely pathogenic,1,115258744,115258744,"criteria provided, multiple submitters, no conflicts"
+28941,single nucleotide variant,NM_002524.5(NRAS):c.149C>T (p.Thr50Ile),NRAS,Pathogenic,1,115256562,115256562,reviewed by expert panel
+28942,single nucleotide variant,NM_002524.5(NRAS):c.179G>A (p.Gly60Glu),NRAS,Pathogenic,1,115256532,115256532,reviewed by expert panel
+29000,single nucleotide variant,NM_004333.6(BRAF):c.1799T>A (p.Val600Glu),BRAF,Conflicting classifications of pathogenicity,7,140453136,140453136,"criteria provided, conflicting classifications"
+29001,single nucleotide variant,NM_004333.6(BRAF):c.1385G>T (p.Arg462Ile),BRAF,Pathogenic,7,140481423,140481423,no assertion criteria provided
+29002,single nucleotide variant,NM_004333.6(BRAF):c.1388T>G (p.Ile463Ser),BRAF,Pathogenic,7,140481420,140481420,no assertion criteria provided
+29003,single nucleotide variant,NM_004333.6(BRAF):c.1391G>A (p.Gly464Glu),BRAF,Pathogenic,7,140481417,140481417,reviewed by expert panel
+29004,single nucleotide variant,NM_004333.6(BRAF):c.736G>C (p.Ala246Pro),BRAF,Pathogenic,7,140501336,140501336,reviewed by expert panel
+29005,single nucleotide variant,NM_004333.6(BRAF):c.1801A>G (p.Lys601Glu),BRAF,Pathogenic,7,140453134,140453134,"criteria provided, single submitter"
+29006,single nucleotide variant,NM_004333.6(BRAF):c.1397G>T (p.Gly466Val),BRAF,Pathogenic,7,140481411,140481411,no assertion criteria provided
+29007,single nucleotide variant,NM_004333.6(BRAF):c.1790T>G (p.Leu597Arg),BRAF,Pathogenic,7,140453145,140453145,no assertion criteria provided
+29008,single nucleotide variant,NM_004333.6(BRAF):c.1789C>G (p.Leu597Val),BRAF,Pathogenic,7,140453146,140453146,"criteria provided, multiple submitters, no conflicts"
+29009,single nucleotide variant,NM_004333.6(BRAF):c.1405G>C (p.Gly469Arg),BRAF,Pathogenic/Likely pathogenic,7,140481403,140481403,"criteria provided, multiple submitters, no conflicts"
+29010,single nucleotide variant,NM_004333.6(BRAF):c.1406G>C (p.Gly469Ala),BRAF,Pathogenic,7,140481402,140481402,"criteria provided, single submitter"
+29011,single nucleotide variant,NM_004333.6(BRAF):c.1781A>G (p.Asp594Gly),BRAF,Conflicting classifications of pathogenicity,7,140453154,140453154,"criteria provided, conflicting classifications"
+29012,single nucleotide variant,NM_004333.6(BRAF):c.770A>G (p.Gln257Arg),BRAF,Pathogenic,7,140501302,140501302,reviewed by expert panel
+29013,single nucleotide variant,NM_004333.6(BRAF):c.1406G>A (p.Gly469Glu),BRAF,Pathogenic,7,140481402,140481402,reviewed by expert panel
+29014,single nucleotide variant,NM_004333.6(BRAF):c.1455G>C (p.Leu485Phe),BRAF,Pathogenic,7,140477853,140477853,reviewed by expert panel
+29015,single nucleotide variant,NM_004333.6(BRAF):c.1495A>G (p.Lys499Glu),BRAF,Pathogenic/Likely pathogenic,7,140477813,140477813,"criteria provided, multiple submitters, no conflicts"
+29016,single nucleotide variant,NM_004333.6(BRAF):c.1501G>A (p.Glu501Lys),BRAF,Pathogenic/Likely pathogenic,7,140477807,140477807,"criteria provided, multiple submitters, no conflicts"
+29017,single nucleotide variant,NM_004333.6(BRAF):c.1502A>G (p.Glu501Gly),BRAF,Pathogenic/Likely pathogenic,7,140477806,140477806,"criteria provided, multiple submitters, no conflicts"
+29018,single nucleotide variant,NM_004333.6(BRAF):c.1741A>G (p.Asn581Asp),BRAF,Pathogenic,7,140453987,140453987,reviewed by expert panel
+29019,single nucleotide variant,NM_004333.6(BRAF):c.1600G>C (p.Gly534Arg),BRAF,Pathogenic/Likely pathogenic,7,140476806,140476806,"criteria provided, multiple submitters, no conflicts"
+29020,single nucleotide variant,NM_004333.6(BRAF):c.1914T>A (p.Asp638Glu),BRAF,Pathogenic/Likely pathogenic,7,140449165,140449165,"criteria provided, multiple submitters, no conflicts"
+31647,Deletion,NM_005228.5(EGFR):c.2240_2257del (p.Leu747_Pro753delinsSer),EGFR,Likely pathogenic; drug response,7,55242470,55242487,no assertion criteria provided
+31648,single nucleotide variant,NM_005228.5(EGFR):c.2573T>G (p.Leu858Arg),EGFR,drug response,7,55259515,55259515,reviewed by expert panel
+31649,Indel,NM_005228.5(EGFR):c.2239_2251delinsC (p.Leu747_Thr751delinsPro),EGFR,drug response,7,55242469,55242481,no assertion criteria provided
+31650,single nucleotide variant,NM_005228.5(EGFR):c.2155G>T (p.Gly719Cys),EGFR,Pathogenic; drug response,7,55241707,55241707,no assertion criteria provided
+31651,single nucleotide variant,NM_005228.5(EGFR):c.2155G>A (p.Gly719Ser),EGFR,Uncertain significance; drug response,7,55241707,55241707,"criteria provided, multiple submitters, no conflicts"
+31652,single nucleotide variant,NM_005228.5(EGFR):c.2369C>T (p.Thr790Met),EGFR,drug response,7,55249071,55249071,reviewed by expert panel
+32117,single nucleotide variant,NM_000249.4(MLH1):c.755C>A (p.Ser252Ter),MLH1,Pathogenic,3,37056000,37056000,"criteria provided, single submitter"
+32118,single nucleotide variant,NM_000249.4(MLH1):c.131C>T (p.Ser44Phe),MLH1,Pathogenic,3,37038124,37038124,reviewed by expert panel
+32119,Microsatellite,NM_000249.4(MLH1):c.1846AAG[2] (p.Lys618del),MLH1,Pathogenic,3,37089130,37089132,reviewed by expert panel
+32123,Indel,NM_000249.4(MLH1):c.1667+1_1667+8delinsATTT,MLH1,Pathogenic,3,37081786,37081793,no assertion criteria provided
+32124,single nucleotide variant,NM_000249.4(MLH1):c.986A>C (p.His329Pro),MLH1,Pathogenic,3,37061902,37061902,reviewed by expert panel
+32126,single nucleotide variant,NM_000249.4(MLH1):c.676C>T (p.Arg226Ter),MLH1,Pathogenic,3,37053589,37053589,reviewed by expert panel
+32127,single nucleotide variant,NM_000249.4(MLH1):c.199G>T (p.Gly67Trp),MLH1,Pathogenic,3,37038192,37038192,reviewed by expert panel
+32128,Indel,NM_000249.4(MLH1):c.1852_1853delinsGC (p.Lys618Ala),MLH1,Benign,3,37089130,37089131,reviewed by expert panel
+32129,single nucleotide variant,NM_000249.4(MLH1):c.1733A>G (p.Glu578Gly),MLH1,Benign,3,37089011,37089011,reviewed by expert panel
+32130,Deletion,"MLH1, EX16DEL",MLH1,Pathogenic,na,-1,-1,no assertion criteria provided
+32131,Variation,"MLH1, HYPERMETHYLATION",MLH1,Pathogenic,na,-1,-1,no assertion criteria provided
+32133,single nucleotide variant,NM_000249.4(MLH1):c.350C>T (p.Thr117Met),MLH1,Pathogenic,3,37045935,37045935,reviewed by expert panel
+32135,single nucleotide variant,NM_000249.4(MLH1):c.394G>C (p.Asp132His),MLH1,Benign,3,37048495,37048495,reviewed by expert panel
+32136,single nucleotide variant,NM_000249.4(MLH1):c.1942C>T (p.Pro648Ser),MLH1,Pathogenic,3,37090053,37090053,reviewed by expert panel
+32137,single nucleotide variant,NM_000249.4(MLH1):c.806C>G (p.Ser269Ter),MLH1,Pathogenic,3,37059012,37059012,reviewed by expert panel
+32138,single nucleotide variant,NM_000249.4(MLH1):c.2041G>A (p.Ala681Thr),MLH1,Pathogenic,3,37090446,37090446,reviewed by expert panel
+32141,Variation,NG_007109.2:g.4853_5124|gom,MLH1,Pathogenic,na,-1,-1,no assertion criteria provided
+32144,Indel,NM_000249.4(MLH1):c.104_105delinsAC (p.Met35Asn),MLH1,Pathogenic,3,37035142,37035143,reviewed by expert panel
+32145,single nucleotide variant,NM_000249.4(MLH1):c.200G>A (p.Gly67Glu),MLH1,Pathogenic,3,37038193,37038193,reviewed by expert panel
+32699,single nucleotide variant,NM_007294.4(BRCA1):c.190T>G (p.Cys64Gly),BRCA1,Pathogenic,17,41258495,41258495,"criteria provided, multiple submitters, no conflicts"
+32700,single nucleotide variant,NM_007294.4(BRCA1):c.181T>G (p.Cys61Gly),BRCA1,Pathogenic,17,41258504,41258504,reviewed by expert panel
+32701,Microsatellite,NM_007294.4(BRCA1):c.68_69del (p.Glu23fs),BRCA1,Pathogenic,17,41276045,41276046,reviewed by expert panel
+32704,Deletion,NM_007294.4(BRCA1):c.1175_1214del (p.Leu392fs),BRCA1,Pathogenic,17,41246334,41246373,reviewed by expert panel
+32705,Microsatellite,NM_007294.4(BRCA1):c.2296_2297del (p.Glu765_Ser766insTer),BRCA1,Pathogenic,17,41245251,41245252,reviewed by expert panel
+32706,Deletion,NM_007294.4(BRCA1):c.2681_2682del (p.Lys894fs),BRCA1,Pathogenic,17,41244866,41244867,reviewed by expert panel
+32708,Deletion,NM_007294.4(BRCA1):c.3005del (p.Asn1002fs),BRCA1,Pathogenic,17,41244543,41244543,reviewed by expert panel
+32709,single nucleotide variant,NM_007294.4(BRCA1):c.3119G>A (p.Ser1040Asn),BRCA1,Benign,17,41244429,41244429,reviewed by expert panel
+32710,single nucleotide variant,NM_007294.4(BRCA1):c.3607C>T (p.Arg1203Ter),BRCA1,Pathogenic,17,41243941,41243941,reviewed by expert panel
+32711,single nucleotide variant,NM_007294.4(BRCA1):c.3748G>T (p.Glu1250Ter),BRCA1,Pathogenic,17,41243800,41243800,reviewed by expert panel
+32712,Microsatellite,NM_007294.4(BRCA1):c.3756_3759del (p.Ser1253fs),BRCA1,Pathogenic,17,41243789,41243792,reviewed by expert panel
+32713,Deletion,NM_007294.4(BRCA1):c.4065_4068del (p.Asn1355fs),BRCA1,Pathogenic,17,41243480,41243483,reviewed by expert panel
+32714,single nucleotide variant,NM_007294.4(BRCA1):c.4327C>T (p.Arg1443Ter),BRCA1,Pathogenic,17,41234451,41234451,reviewed by expert panel
+32715,single nucleotide variant,NM_007294.4(BRCA1):c.4327C>G (p.Arg1443Gly),BRCA1,Benign,17,41234451,41234451,reviewed by expert panel
+32716,Duplication,NM_007294.4(BRCA1):c.5266dup (p.Gln1756fs),BRCA1,Pathogenic,17,41209079,41209080,reviewed by expert panel
+32718,Deletion,NM_007294.4(BRCA1):c.4966_4984del (p.Gly1656fs),BRCA1,Pathogenic,17,41222947,41222965,reviewed by expert panel
+32720,single nucleotide variant,NM_007294.4(BRCA1):c.2521C>T (p.Arg841Trp),BRCA1,Benign,17,41245027,41245027,reviewed by expert panel
+32721,single nucleotide variant,NM_007294.4(BRCA1):c.2389G>T (p.Glu797Ter),BRCA1,Pathogenic,17,41245159,41245159,reviewed by expert panel
+32722,Deletion,NM_007294.4(BRCA1):c.843_846del (p.Ser282fs),BRCA1,Pathogenic,17,41246702,41246705,reviewed by expert panel
+32723,Deletion,NM_007294.4(BRCA1):c.3481_3491del (p.Glu1161fs),BRCA1,Pathogenic,17,41244057,41244067,reviewed by expert panel
+32724,Deletion,NM_007294.4(BRCA1):c.1556del (p.Lys519fs),BRCA1,Pathogenic,17,41245992,41245992,reviewed by expert panel
+32729,Insertion,"BRCA1, 6-KB DUP, EX13",BRCA1,Pathogenic,na,-1,-1,no assertion criteria provided
+32732,single nucleotide variant,NM_007294.4(BRCA1):c.211A>G (p.Arg71Gly),BRCA1,Pathogenic,17,41258474,41258474,reviewed by expert panel
+32733,single nucleotide variant,NM_007294.4(BRCA1):c.5324T>G (p.Met1775Arg),BRCA1,Pathogenic,17,41203088,41203088,reviewed by expert panel
+32734,single nucleotide variant,NM_007294.4(BRCA1):c.5324T>A (p.Met1775Lys),BRCA1,Pathogenic,17,41203088,41203088,reviewed by expert panel
+33122,single nucleotide variant,NM_004304.5(ALK):c.3824G>A (p.Arg1275Gln),ALK,Pathogenic,2,29432664,29432664,"criteria provided, multiple submitters, no conflicts"
+33123,single nucleotide variant,NM_004304.5(ALK):c.3383G>C (p.Gly1128Ala),ALK,Pathogenic; risk factor,2,29445450,29445450,no assertion criteria provided
+33124,single nucleotide variant,NM_004304.5(ALK):c.3575G>C (p.Arg1192Pro),ALK,Pathogenic,2,29443642,29443642,"criteria provided, single submitter"
+33125,single nucleotide variant,NM_004304.5(ALK):c.3452C>T (p.Thr1151Met),ALK,Conflicting classifications of pathogenicity,2,29445273,29445273,"criteria provided, conflicting classifications"
+33858,single nucleotide variant,NM_000492.4(CFTR):c.2988+1G>A,CFTR,Pathogenic,7,117246808,117246808,practice guideline
+33882,single nucleotide variant,NM_000038.6(APC):c.5465T>A (p.Val1822Asp),APC,Benign,5,112176756,112176756,reviewed by expert panel
+34247,single nucleotide variant,NM_004304.5(ALK):c.3260C>T (p.Thr1087Ile),ALK,Conflicting classifications of pathogenicity,2,29446307,29446307,"criteria provided, conflicting classifications"
+34719,single nucleotide variant,NM_004304.5(ALK):c.3749T>C (p.Ile1250Thr),ALK,Uncertain significance,2,29432739,29432739,"criteria provided, multiple submitters, no conflicts"
+38441,single nucleotide variant,NM_000492.4(CFTR):c.1079C>A (p.Thr360Lys),CFTR,Conflicting classifications of pathogenicity,7,117180363,117180363,"criteria provided, conflicting classifications"
+38609,single nucleotide variant,NM_000249.4(MLH1):c.793C>T (p.Arg265Cys),MLH1,Pathogenic,3,37058999,37058999,reviewed by expert panel
+38610,Deletion,NC_000003.11:g.37089454_37101079del,MLH1,Pathogenic,3,37089454,37101079,"criteria provided, single submitter"
+38612,single nucleotide variant,NM_000249.4(MLH1):c.1865T>A (p.Leu622His),MLH1,Pathogenic,3,37089143,37089143,reviewed by expert panel
+38760,single nucleotide variant,NM_004333.6(BRAF):c.722C>T (p.Thr241Met),BRAF,Pathogenic/Likely pathogenic,7,140501350,140501350,"criteria provided, multiple submitters, no conflicts"
+38761,single nucleotide variant,NM_004333.6(BRAF):c.722C>G (p.Thr241Arg),BRAF,Pathogenic,7,140501350,140501350,"criteria provided, multiple submitters, no conflicts"
+38762,single nucleotide variant,NM_004333.6(BRAF):c.721A>C (p.Thr241Pro),BRAF,Pathogenic/Likely pathogenic,7,140501351,140501351,"criteria provided, multiple submitters, no conflicts"
+38763,single nucleotide variant,NM_004333.6(BRAF):c.1593G>C (p.Trp531Cys),BRAF,Pathogenic,7,140476813,140476813,"criteria provided, multiple submitters, no conflicts"
+40605,single nucleotide variant,NM_033360.4(KRAS):c.211T>C (p.Tyr71His),KRAS,Pathogenic,12,25380247,25380247,no assertion criteria provided
+40606,single nucleotide variant,NM_033360.4(KRAS):c.439A>G (p.Lys147Glu),KRAS,Pathogenic/Likely pathogenic,12,25378559,25378559,"criteria provided, multiple submitters, no conflicts"
+40609,single nucleotide variant,NM_006218.4(PIK3CA):c.1624G>A (p.Glu542Lys),PIK3CA,Pathogenic,3,178936082,178936082,reviewed by expert panel
+40610,single nucleotide variant,NM_006218.4(PIK3CA):c.1258T>C (p.Cys420Arg),PIK3CA,Pathogenic,3,178927980,178927980,"criteria provided, multiple submitters, no conflicts"
+44228,single nucleotide variant,NM_000546.6(TP53):c.*1175A>C,TP53,Benign,17,7571752,7571752,reviewed by expert panel
+44480,single nucleotide variant,NM_000492.4(CFTR):c.1054C>T (p.Arg352Trp),CFTR,Conflicting classifications of pathogenicity,7,117180338,117180338,"criteria provided, conflicting classifications"
+44481,single nucleotide variant,NM_000492.4(CFTR):c.114C>G (p.Tyr38Ter),CFTR,Pathogenic/Likely pathogenic,7,117144367,117144367,"criteria provided, multiple submitters, no conflicts"
+44482,single nucleotide variant,NM_000492.4(CFTR):c.1209+18A>C,CFTR,Likely benign,7,117182180,117182180,"criteria provided, multiple submitters, no conflicts"
+44483,single nucleotide variant,NM_000492.4(CFTR):c.125C>T (p.Ser42Phe),CFTR,Conflicting classifications of pathogenicity,7,117144378,117144378,"criteria provided, conflicting classifications"
+44484,single nucleotide variant,NM_000492.4(CFTR):c.1365G>A (p.Ala455=),CFTR,Conflicting classifications of pathogenicity,7,117188850,117188850,"criteria provided, conflicting classifications"
+44485,single nucleotide variant,NM_000492.4(CFTR):c.1367T>C (p.Val456Ala),CFTR,Pathogenic,7,117188852,117188852,reviewed by expert panel
+44486,single nucleotide variant,NM_000492.4(CFTR):c.1397C>G (p.Ser466Ter),CFTR,Pathogenic,7,117199522,117199522,reviewed by expert panel
+44487,single nucleotide variant,NM_000492.4(CFTR):c.1400T>C (p.Leu467Pro),CFTR,Pathogenic,7,117199525,117199525,reviewed by expert panel
+44488,single nucleotide variant,NM_000492.4(CFTR):c.14C>T (p.Pro5Leu),CFTR,Pathogenic/Likely pathogenic,7,117120162,117120162,"criteria provided, multiple submitters, no conflicts"
+44489,single nucleotide variant,NM_000492.4(CFTR):c.1558G>A (p.Val520Ile),CFTR,Conflicting classifications of pathogenicity,7,117199683,117199683,"criteria provided, conflicting classifications"
+44490,single nucleotide variant,NM_000492.4(CFTR):c.1581A>G (p.Glu527=),CFTR,Benign/Likely benign,7,117199706,117199706,"criteria provided, multiple submitters, no conflicts"
+44491,single nucleotide variant,NM_000492.4(CFTR):c.1584+12T>C,CFTR,Conflicting classifications of pathogenicity,7,117199721,117199721,"criteria provided, conflicting classifications"
+44492,single nucleotide variant,NM_000492.4(CFTR):c.1585-8G>A,CFTR,Pathogenic,7,117227785,117227785,reviewed by expert panel
+44493,single nucleotide variant,NM_000492.4(CFTR):c.1673T>C (p.Leu558Ser),CFTR,Pathogenic,7,117227881,117227881,reviewed by expert panel
+44494,single nucleotide variant,NM_000492.4(CFTR):c.1684G>A (p.Val562Ile),CFTR,Conflicting classifications of pathogenicity,7,117230411,117230411,"criteria provided, conflicting classifications"
+44495,Deletion,NM_000492.4(CFTR):c.1692del (p.Asp565fs),CFTR,Pathogenic,7,117230417,117230417,reviewed by expert panel
+44496,single nucleotide variant,NM_000492.4(CFTR):c.1731C>T (p.Tyr577=),CFTR,Conflicting classifications of pathogenicity,7,117230458,117230458,"criteria provided, conflicting classifications"
+44497,single nucleotide variant,NM_000492.4(CFTR):c.1865G>A (p.Gly622Asp),CFTR,Conflicting classifications of pathogenicity,7,117232086,117232086,"criteria provided, conflicting classifications"
+44498,Deletion,NM_000492.4(CFTR):c.1911del (p.Gln637fs),CFTR,Pathogenic,7,117232132,117232132,reviewed by expert panel
+44499,single nucleotide variant,NM_000492.4(CFTR):c.2002C>T (p.Arg668Cys),CFTR,Conflicting classifications of pathogenicity,7,117232223,117232223,"criteria provided, conflicting classifications"
+44500,Deletion,NM_000492.4(CFTR):c.2012del (p.Ser670_Leu671insTer),CFTR,Pathogenic,7,117232232,117232232,reviewed by expert panel
+44501,Indel,NM_000492.4(CFTR):c.2051_2052delinsG (p.Lys684fs),CFTR,Pathogenic,7,117232272,117232273,reviewed by expert panel
+44502,Duplication,NM_000492.4(CFTR):c.2052dup (p.Gln685fs),CFTR,Pathogenic,7,117232266,117232267,reviewed by expert panel
+44503,single nucleotide variant,NM_000492.4(CFTR):c.224G>A (p.Arg75Gln),CFTR,Conflicting classifications of pathogenicity,7,117149147,117149147,"criteria provided, conflicting classifications"
+44504,single nucleotide variant,NM_000492.4(CFTR):c.2374C>G (p.Arg792Gly),CFTR,Uncertain significance,7,117232595,117232595,"criteria provided, multiple submitters, no conflicts"
+44505,single nucleotide variant,NM_000492.4(CFTR):c.2392C>T (p.Pro798Ser),CFTR,Uncertain significance,7,117232613,117232613,"criteria provided, multiple submitters, no conflicts"
+44506,single nucleotide variant,NM_000492.4(CFTR):c.2421A>G (p.Ile807Met),CFTR,Conflicting classifications of pathogenicity,7,117232642,117232642,"criteria provided, conflicting classifications"
+44507,single nucleotide variant,NM_000492.4(CFTR):c.2597G>A (p.Cys866Tyr),CFTR,Uncertain significance,7,117235090,117235090,"criteria provided, multiple submitters, no conflicts"
+44508,single nucleotide variant,NM_000492.4(CFTR):c.2620-15C>G,CFTR,Conflicting classifications of pathogenicity,7,117242865,117242865,"criteria provided, conflicting classifications"
+44509,Deletion,NM_000492.4(CFTR):c.273+10255del,CFTR,Uncertain significance,7,117159449,117159449,"criteria provided, single submitter"
+44510,single nucleotide variant,NM_000492.4(CFTR):c.273+3A>C,CFTR,Pathogenic,7,117149199,117149199,reviewed by expert panel
+44511,single nucleotide variant,NM_000492.4(CFTR):c.2762G>A (p.Gly921Glu),CFTR,Uncertain significance,7,117243690,117243690,"criteria provided, multiple submitters, no conflicts"
+44512,single nucleotide variant,NM_000492.4(CFTR):c.2768C>A (p.Ala923Asp),CFTR,Likely pathogenic,7,117243696,117243696,"criteria provided, single submitter"
+44513,Duplication,NM_000492.4(CFTR):c.2810dup (p.Val938fs),CFTR,Pathogenic,7,117243737,117243738,reviewed by expert panel
+44514,single nucleotide variant,NM_000492.4(CFTR):c.2813T>G (p.Val938Gly),CFTR,Conflicting classifications of pathogenicity,7,117243741,117243741,"criteria provided, conflicting classifications"
+44515,single nucleotide variant,NM_000492.4(CFTR):c.2832G>A (p.Val944=),CFTR,Likely benign,7,117243760,117243760,"criteria provided, multiple submitters, no conflicts"
+44516,single nucleotide variant,NM_000492.4(CFTR):c.2835G>A (p.Ser945=),CFTR,Conflicting classifications of pathogenicity,7,117243763,117243763,"criteria provided, conflicting classifications"
+44517,single nucleotide variant,NM_000492.4(CFTR):c.2898G>A (p.Thr966=),CFTR,Conflicting classifications of pathogenicity,7,117243826,117243826,"criteria provided, conflicting classifications"
+44518,single nucleotide variant,NM_000492.4(CFTR):c.2909G>A (p.Gly970Asp),CFTR,Pathogenic,7,117246728,117246728,reviewed by expert panel
+44519,single nucleotide variant,NM_000492.4(CFTR):c.2932A>T (p.Lys978Ter),CFTR,Pathogenic,7,117246751,117246751,"criteria provided, multiple submitters, no conflicts"
+44521,single nucleotide variant,NM_000492.4(CFTR):c.2988G>A (p.Gln996=),CFTR,Pathogenic,7,117246807,117246807,reviewed by expert panel
+44522,single nucleotide variant,NM_000492.4(CFTR):c.2989-2A>T,CFTR,Pathogenic,7,117250571,117250571,"criteria provided, multiple submitters, no conflicts"
+44523,single nucleotide variant,NM_000492.4(CFTR):c.3038C>A (p.Pro1013His),CFTR,Conflicting classifications of pathogenicity,7,117250622,117250622,"criteria provided, conflicting classifications"
+44524,single nucleotide variant,NM_000492.4(CFTR):c.3080T>C (p.Ile1027Thr),CFTR,Conflicting classifications of pathogenicity,7,117250664,117250664,"criteria provided, conflicting classifications"
+44525,single nucleotide variant,NM_000492.4(CFTR):c.3095A>G (p.Tyr1032Cys),CFTR,Pathogenic/Likely pathogenic,7,117250679,117250679,"criteria provided, multiple submitters, no conflicts"
+44526,single nucleotide variant,NM_000492.4(CFTR):c.3139+18C>T,CFTR,Benign/Likely benign,7,117250741,117250741,"criteria provided, multiple submitters, no conflicts"
+44527,single nucleotide variant,NM_000492.4(CFTR):c.3139+8A>G,CFTR,Conflicting classifications of pathogenicity,7,117250731,117250731,"criteria provided, conflicting classifications"
+44528,single nucleotide variant,NM_000492.4(CFTR):c.3140-26A>G,CFTR,Pathogenic,7,117251609,117251609,reviewed by expert panel
+44529,single nucleotide variant,NM_000492.4(CFTR):c.3154T>G (p.Phe1052Val),CFTR,drug response,7,117251649,117251649,reviewed by expert panel
+44530,single nucleotide variant,NM_000492.4(CFTR):c.3209G>A (p.Arg1070Gln),CFTR,drug response,7,117251704,117251704,reviewed by expert panel
+44531,single nucleotide variant,NM_000492.4(CFTR):c.3454G>C (p.Asp1152His),CFTR,drug response,7,117254753,117254753,reviewed by expert panel
+44532,Deletion,NM_000492.4(CFTR):c.3528del (p.Lys1177fs),CFTR,Pathogenic,7,117267634,117267634,practice guideline
+44533,single nucleotide variant,NM_000492.4(CFTR):c.3558A>G (p.Gln1186=),CFTR,Conflicting classifications of pathogenicity,7,117267665,117267665,"criteria provided, conflicting classifications"
+44534,single nucleotide variant,NM_000492.4(CFTR):c.355A>G (p.Ile119Val),CFTR,Uncertain significance,7,117171034,117171034,"criteria provided, multiple submitters, no conflicts"
+44535,Deletion,NM_000492.4(CFTR):c.3691del (p.Ser1231fs),CFTR,Pathogenic,7,117267796,117267796,reviewed by expert panel
+44536,single nucleotide variant,NM_000492.4(CFTR):c.3705T>G (p.Ser1235Arg),CFTR,Conflicting classifications of pathogenicity,7,117267812,117267812,"criteria provided, conflicting classifications"
+44537,single nucleotide variant,NM_000492.4(CFTR):c.370G>C (p.Gly124Arg),CFTR,Likely pathogenic,7,117171049,117171049,"criteria provided, single submitter"
+44538,Deletion,NM_000492.4(CFTR):c.3717+130_3717+131del,CFTR,Likely benign,7,117267954,117267955,"criteria provided, single submitter"
+44539,single nucleotide variant,NM_000492.4(CFTR):c.3717+5G>A,CFTR,Pathogenic,7,117267829,117267829,reviewed by expert panel
+44540,Insertion,NM_000492.4(CFTR):c.3718-2473_3718-2472insCAGAGT,CFTR,Uncertain significance,7,117280015,117280016,"criteria provided, multiple submitters, no conflicts"
+44541,Duplication,NM_000492.4(CFTR):c.380_382dup (p.Leu127dup),CFTR,Likely pathogenic,7,117171057,117171058,"criteria provided, multiple submitters, no conflicts"
+44542,single nucleotide variant,NM_000492.4(CFTR):c.3893G>C (p.Gly1298Ala),CFTR,Uncertain significance,7,117292915,117292915,no assertion criteria provided
+44543,Insertion,NM_000492.4(CFTR):c.3957_3958insAGGG (p.Asp1320fs),CFTR,Likely pathogenic,7,117292979,117292980,no assertion criteria provided
+44544,single nucleotide variant,NM_000492.4(CFTR):c.3997G>T (p.Gly1333Trp),CFTR,Likely pathogenic,7,117304775,117304775,"criteria provided, single submitter"
+44545,single nucleotide variant,NM_000492.4(CFTR):c.4046G>A (p.Gly1349Asp),CFTR,Pathogenic; drug response,7,117304824,117304824,reviewed by expert panel
+44546,single nucleotide variant,NM_000492.4(CFTR):c.4056G>T (p.Gln1352His),CFTR,Conflicting classifications of pathogenicity,7,117304834,117304834,"criteria provided, conflicting classifications"
+44547,single nucleotide variant,NM_000492.4(CFTR):c.4092G>A (p.Ala1364=),CFTR,Likely benign,7,117304870,117304870,"criteria provided, multiple submitters, no conflicts"
+44548,single nucleotide variant,NM_000492.4(CFTR):c.4242+2T>C,CFTR,Pathogenic/Likely pathogenic,7,117305620,117305620,"criteria provided, multiple submitters, no conflicts"
+44549,Deletion,NM_000492.4(CFTR):c.4243-35del,CFTR,Benign/Likely benign,7,117306926,117306926,"criteria provided, multiple submitters, no conflicts"
+44550,single nucleotide variant,NM_000492.4(CFTR):c.4280T>C (p.Ile1427Thr),CFTR,Likely pathogenic,7,117306999,117306999,"criteria provided, single submitter"
+44551,single nucleotide variant,NM_000492.4(CFTR):c.592G>A (p.Ala198Thr),CFTR,Uncertain significance,7,117175314,117175314,"criteria provided, multiple submitters, no conflicts"
+44552,single nucleotide variant,NM_000492.4(CFTR):c.743+4G>T,CFTR,Uncertain significance,7,117175469,117175469,"criteria provided, single submitter"
+44553,Microsatellite,NM_000492.4(CFTR):c.744-33GATT[8],CFTR,Benign/Likely benign,7,117176568,117176569,"criteria provided, multiple submitters, no conflicts"
+44554,single nucleotide variant,NM_000492.4(CFTR):c.825C>G (p.Tyr275Ter),CFTR,Pathogenic,7,117176683,117176683,reviewed by expert panel
+44555,single nucleotide variant,NM_000492.4(CFTR):c.846A>T (p.Glu282Asp),CFTR,Uncertain significance,7,117176704,117176704,"criteria provided, multiple submitters, no conflicts"
+44556,single nucleotide variant,NM_000492.4(CFTR):c.853A>T (p.Ile285Phe),CFTR,Conflicting classifications of pathogenicity,7,117176711,117176711,"criteria provided, conflicting classifications"
+44557,single nucleotide variant,NM_000492.4(CFTR):c.91C>T (p.Arg31Cys),CFTR,Conflicting classifications of pathogenicity,7,117144344,117144344,"criteria provided, conflicting classifications"
+44558,single nucleotide variant,NM_000492.4(CFTR):c.958T>G (p.Leu320Val),CFTR,Conflicting classifications of pathogenicity,7,117180242,117180242,"criteria provided, conflicting classifications"
+44559,single nucleotide variant,NM_000492.4(CFTR):c.997C>T (p.Leu333Phe),CFTR,Uncertain significance,7,117180281,117180281,"criteria provided, multiple submitters, no conflicts"
+45201,single nucleotide variant,NM_000249.4(MLH1):c.1039-8T>A,MLH1,Benign,3,37067120,37067120,reviewed by expert panel
+45202,single nucleotide variant,NM_000249.4(MLH1):c.1381A>T (p.Lys461Ter),MLH1,Pathogenic,3,37067470,37067470,reviewed by expert panel
+45203,single nucleotide variant,NM_000249.4(MLH1):c.1558+14G>A,MLH1,Benign,3,37070437,37070437,reviewed by expert panel
+45204,single nucleotide variant,NM_000249.4(MLH1):c.1668-19A>G,MLH1,Benign,3,37083740,37083740,reviewed by expert panel
+45205,single nucleotide variant,NM_000249.4(MLH1):c.1732-19T>A,MLH1,Benign/Likely benign,3,37088991,37088991,"criteria provided, multiple submitters, no conflicts"
+45206,single nucleotide variant,NM_000249.4(MLH1):c.1896+17T>C,MLH1,Likely benign,3,37089191,37089191,"criteria provided, multiple submitters, no conflicts"
+45207,single nucleotide variant,NM_000249.4(MLH1):c.1937A>G (p.Tyr646Cys),MLH1,Conflicting classifications of pathogenicity,3,37090048,37090048,"criteria provided, conflicting classifications"
+45208,single nucleotide variant,NM_000249.4(MLH1):c.1959G>T (p.Leu653=),MLH1,Benign,3,37090070,37090070,reviewed by expert panel
+45209,single nucleotide variant,NM_000249.4(MLH1):c.2152C>T (p.His718Tyr),MLH1,Benign,3,37092025,37092025,reviewed by expert panel
+45210,single nucleotide variant,NM_000249.4(MLH1):c.2213G>A (p.Gly738Glu),MLH1,Conflicting classifications of pathogenicity,3,37092086,37092086,"criteria provided, conflicting classifications"
+45211,Microsatellite,NM_000249.4(MLH1):c.*32CTT[1],MLH1,Benign,3,37092174,37092176,reviewed by expert panel
+45212,single nucleotide variant,NM_000249.4(MLH1):c.298C>T (p.Arg100Ter),MLH1,Pathogenic,3,37042536,37042536,reviewed by expert panel
+45213,single nucleotide variant,NM_000249.4(MLH1):c.381-41A>G,MLH1,Benign,3,37048441,37048441,reviewed by expert panel
+45214,single nucleotide variant,NM_000249.4(MLH1):c.453+25A>G,MLH1,Benign,3,37048579,37048579,reviewed by expert panel
+45215,single nucleotide variant,NM_000249.4(MLH1):c.454-1G>A,MLH1,Pathogenic,3,37050304,37050304,reviewed by expert panel
+45216,single nucleotide variant,NM_000249.4(MLH1):c.545+20A>T,MLH1,Benign,3,37050416,37050416,"criteria provided, multiple submitters, no conflicts"
+45217,single nucleotide variant,NM_000249.4(MLH1):c.588+11G>C,MLH1,Benign,3,37053364,37053364,reviewed by expert panel
+45218,single nucleotide variant,NM_000249.4(MLH1):c.589-15C>T,MLH1,Likely benign,3,37053487,37053487,reviewed by expert panel
+45219,single nucleotide variant,NM_000249.4(MLH1):c.655A>G (p.Ile219Val),MLH1,Benign,3,37053568,37053568,reviewed by expert panel
+45220,single nucleotide variant,NM_000249.4(MLH1):c.702G>A (p.Glu234=),MLH1,Likely benign,3,37055947,37055947,reviewed by expert panel
+45221,single nucleotide variant,NM_000249.4(MLH1):c.80G>C (p.Arg27Pro),MLH1,Uncertain significance,3,37035118,37035118,no assertion criteria provided
+45222,single nucleotide variant,NM_000249.4(MLH1):c.94A>G (p.Ile32Val),MLH1,Conflicting classifications of pathogenicity,3,37035132,37035132,"criteria provided, conflicting classifications"
+45223,single nucleotide variant,NM_000251.3(MSH2):c.1030C>T (p.Gln344Ter),MSH2,Pathogenic,2,47643522,47643522,reviewed by expert panel
+45224,single nucleotide variant,NM_000251.3(MSH2):c.1077-10T>C,MSH2,Benign,2,47656871,47656871,reviewed by expert panel
+45225,Deletion,NM_000251.2(MSH2):c.1077-66_1146del,MSH2,Pathogenic/Likely pathogenic,2,47656812,47656947,"criteria provided, multiple submitters, no conflicts"
+45226,single nucleotide variant,NM_000251.3(MSH2):c.1077-80G>A,MSH2,Benign,2,47656801,47656801,reviewed by expert panel
+45227,single nucleotide variant,NM_000251.3(MSH2):c.1387-8G>T,MSH2,Benign,2,47690162,47690162,reviewed by expert panel
+45228,single nucleotide variant,NM_000251.3(MSH2):c.1511-9A>T,MSH2,Benign,2,47693788,47693788,reviewed by expert panel
+45229,single nucleotide variant,NM_000251.3(MSH2):c.1661+12G>A,MSH2,Benign,2,47693959,47693959,reviewed by expert panel
+45230,single nucleotide variant,NM_000251.3(MSH2):c.1666T>C (p.Leu556=),MSH2,Benign,2,47698108,47698108,reviewed by expert panel
+45231,Deletion,NM_000251.3(MSH2):c.1705_1706del (p.Glu569fs),MSH2,Pathogenic,2,47698146,47698147,reviewed by expert panel
+45232,single nucleotide variant,NM_000251.3(MSH2):c.1737A>G (p.Lys579=),MSH2,Likely benign,2,47698179,47698179,reviewed by expert panel
+45233,single nucleotide variant,NM_000251.3(MSH2):c.2006-6T>C,MSH2,Benign,2,47703500,47703500,reviewed by expert panel
+45234,single nucleotide variant,NM_000251.3(MSH2):c.2038C>T (p.Arg680Ter),MSH2,Pathogenic,2,47703538,47703538,reviewed by expert panel
+45235,single nucleotide variant,NM_000251.3(MSH2):c.211+9C>G,MSH2,Benign,2,47630550,47630550,reviewed by expert panel
+45237,single nucleotide variant,NM_000251.3(MSH2):c.304G>A (p.Val102Ile),MSH2,Likely benign,2,47635632,47635632,reviewed by expert panel
+45238,single nucleotide variant,NM_000251.3(MSH2):c.339G>A (p.Lys113=),MSH2,Benign,2,47635667,47635667,reviewed by expert panel
+45239,single nucleotide variant,NM_000251.3(MSH2):c.380A>G (p.Asn127Ser),MSH2,Benign,2,47637246,47637246,reviewed by expert panel
+45240,single nucleotide variant,NM_000251.3(MSH2):c.421A>G (p.Met141Val),MSH2,Conflicting classifications of pathogenicity,2,47637287,47637287,"criteria provided, conflicting classifications"
+45241,Duplication,NM_000251.3(MSH2):c.860dup (p.Gln288fs),MSH2,Pathogenic/Likely pathogenic,2,47641473,47641474,"criteria provided, multiple submitters, no conflicts"
+45242,single nucleotide variant,NM_000251.3(MSH2):c.942+3A>T,MSH2,Pathogenic,2,47641560,47641560,reviewed by expert panel
+45560,single nucleotide variant,NM_000551.4(VHL):c.242C>T (p.Pro81Leu),VHL,Pathogenic/Likely pathogenic,3,10183773,10183773,"criteria provided, multiple submitters, no conflicts"
+45561,single nucleotide variant,NM_000551.4(VHL):c.320G>C (p.Arg107Pro),VHL,Pathogenic/Likely pathogenic,3,10183851,10183851,"criteria provided, multiple submitters, no conflicts"
+45562,single nucleotide variant,NM_000551.4(VHL):c.340+5G>C,VHL,Benign/Likely benign,3,10183876,10183876,"criteria provided, multiple submitters, no conflicts"
+45563,single nucleotide variant,NM_000551.4(VHL):c.371C>T (p.Thr124Ile),VHL,Pathogenic/Likely pathogenic,3,10188228,10188228,"criteria provided, multiple submitters, no conflicts"
+45564,single nucleotide variant,NM_000551.4(VHL):c.458T>A (p.Leu153Gln),VHL,Pathogenic/Likely pathogenic,3,10188315,10188315,"criteria provided, multiple submitters, no conflicts"
+45565,Deletion,NM_000551.4(VHL):c.464-117del,VHL,Uncertain significance,3,10191348,10191348,"criteria provided, single submitter"
+45566,single nucleotide variant,NM_000551.4(VHL):c.524A>G (p.Tyr175Cys),VHL,Pathogenic/Likely pathogenic,3,10191531,10191531,"criteria provided, multiple submitters, no conflicts"
+45567,single nucleotide variant,NM_000551.4(VHL):c.549G>A (p.Ser183=),VHL,Benign/Likely benign,3,10191556,10191556,"criteria provided, multiple submitters, no conflicts"
+45568,single nucleotide variant,p.X214Trp,VHL,Likely pathogenic,na,-1,-1,"criteria provided, single submitter"
+45942,Deletion,NM_007294.4(BRCA1):c.1016del (p.Lys339fs),BRCA1,Pathogenic,17,41246532,41246532,reviewed by expert panel
+45943,Deletion,NM_007294.4(BRCA1):c.1018del (p.Lys339_Val340insTer),BRCA1,Pathogenic,17,41246530,41246530,reviewed by expert panel
+45944,single nucleotide variant,NM_007294.4(BRCA1):c.1033G>T (p.Asp345Tyr),BRCA1,Conflicting classifications of pathogenicity,17,41246515,41246515,"criteria provided, conflicting classifications"
+45945,single nucleotide variant,NM_007294.4(BRCA1):c.1036C>T (p.Pro346Ser),BRCA1,Benign,17,41246512,41246512,reviewed by expert panel
+45946,single nucleotide variant,NM_007294.4(BRCA1):c.1105G>A (p.Asp369Asn),BRCA1,Benign,17,41246443,41246443,reviewed by expert panel
+45947,Deletion,NM_007294.4(BRCA1):c.1121del (p.Thr374fs),BRCA1,Pathogenic,17,41246427,41246427,reviewed by expert panel
+45948,single nucleotide variant,NM_007294.4(BRCA1):c.116G>A (p.Cys39Tyr),BRCA1,Pathogenic,17,41267761,41267761,"criteria provided, multiple submitters, no conflicts"
+45949,single nucleotide variant,NM_007294.4(BRCA1):c.116G>T (p.Cys39Phe),BRCA1,Pathogenic/Likely pathogenic,17,41267761,41267761,"criteria provided, multiple submitters, no conflicts"
+45950,Deletion,NM_007294.4(BRCA1):c.1175_1215del (p.Leu392fs),BRCA1,Pathogenic,17,41246333,41246373,reviewed by expert panel
+45951,Deletion,NM_007294.4(BRCA1):c.1175_1216del (p.Leu392_Asn406delinsHis),BRCA1,Pathogenic,17,41246332,41246373,no assertion criteria provided
+45952,Deletion,NM_007294.4(BRCA1):c.1177_1219del (p.Leu393fs),BRCA1,Pathogenic,17,41246329,41246371,reviewed by expert panel
+45953,Deletion,NM_007294.4(BRCA1):c.1175_1218del (p.Leu392fs),BRCA1,Pathogenic,17,41246330,41246373,reviewed by expert panel
+45954,single nucleotide variant,NM_007294.4(BRCA1):c.1202G>A (p.Gly401Glu),BRCA1,Conflicting classifications of pathogenicity,17,41246346,41246346,"criteria provided, conflicting classifications"
+45955,single nucleotide variant,NM_007294.4(BRCA1):c.1222A>G (p.Lys408Glu),BRCA1,Conflicting classifications of pathogenicity,17,41246326,41246326,"criteria provided, conflicting classifications"
+45956,single nucleotide variant,NM_007294.4(BRCA1):c.134+5G>C,BRCA1,Pathogenic/Likely pathogenic,17,41267738,41267738,"criteria provided, multiple submitters, no conflicts"
+45957,Insertion,NM_007294.4(BRCA1):c.1340_1341insG (p.His448fs),BRCA1,Pathogenic,17,41246207,41246208,reviewed by expert panel
+45958,single nucleotide variant,NM_007294.4(BRCA1):c.134A>C (p.Lys45Thr),BRCA1,Conflicting classifications of pathogenicity,17,41267743,41267743,"criteria provided, conflicting classifications"
+45959,single nucleotide variant,NM_007294.4(BRCA1):c.135-15C>G,BRCA1,Likely benign,17,41258565,41258565,"criteria provided, multiple submitters, no conflicts"
+45960,single nucleotide variant,NM_007294.4(BRCA1):c.135-1G>T,BRCA1,Pathogenic,17,41258551,41258551,reviewed by expert panel
+45961,Duplication,NM_007294.4(BRCA1):c.135-8dup,BRCA1,Conflicting classifications of pathogenicity,17,41258557,41258558,"criteria provided, conflicting classifications"
+45962,Microsatellite,NM_007294.4(BRCA1):c.1360_1361del (p.Glu453_Ser454insTer),BRCA1,Pathogenic,17,41246187,41246188,reviewed by expert panel
+45964,Indel,NM_007294.3(BRCA1):c.1387_1390delAAAAins5,BRCA1,Pathogenic,17,41246158,41246161,no assertion criteria provided
+45965,Indel,NM_007294.4(BRCA1):c.1389_1390delinsG (p.Thr464fs),BRCA1,Pathogenic,17,41246158,41246159,reviewed by expert panel
+45966,single nucleotide variant,NM_007294.4(BRCA1):c.1396C>T (p.Arg466Trp),BRCA1,Conflicting classifications of pathogenicity,17,41246152,41246152,"criteria provided, conflicting classifications"
+45967,single nucleotide variant,NM_007294.4(BRCA1):c.1405G>A (p.Ala469Thr),BRCA1,Conflicting classifications of pathogenicity,17,41246143,41246143,"criteria provided, conflicting classifications"
+45968,Deletion,NM_007294.4(BRCA1):c.143del (p.Met48fs),BRCA1,Pathogenic,17,41258542,41258542,reviewed by expert panel
+45969,Deletion,NM_007294.4(BRCA1):c.1444_1447del (p.Leu481_Ile482insTer),BRCA1,Pathogenic,17,41246101,41246104,reviewed by expert panel
+45970,single nucleotide variant,NM_007294.4(BRCA1):c.1459G>T (p.Val487Phe),BRCA1,Conflicting classifications of pathogenicity,17,41246089,41246089,"criteria provided, conflicting classifications"
+45971,single nucleotide variant,NM_007294.4(BRCA1):c.1480C>T (p.Gln494Ter),BRCA1,Pathogenic,17,41246068,41246068,reviewed by expert panel
+45972,single nucleotide variant,NM_007294.4(BRCA1):c.1486C>T (p.Arg496Cys),BRCA1,Benign,17,41246062,41246062,reviewed by expert panel
+45973,Deletion,NM_007294.4(BRCA1):c.1504_1508del (p.Leu502fs),BRCA1,Pathogenic,17,41246040,41246044,reviewed by expert panel
+45974,Deletion,NM_007294.4(BRCA1):c.1510del (p.Arg504fs),BRCA1,Pathogenic,17,41246038,41246038,reviewed by expert panel
+45975,single nucleotide variant,NM_007294.4(BRCA1):c.1532G>T (p.Gly511Val),BRCA1,Conflicting classifications of pathogenicity,17,41246016,41246016,"criteria provided, conflicting classifications"
+45976,single nucleotide variant,NM_007294.4(BRCA1):c.1534C>T (p.Leu512Phe),BRCA1,Benign,17,41246014,41246014,reviewed by expert panel
+45977,single nucleotide variant,NM_007294.4(BRCA1):c.154C>T (p.Leu52Phe),BRCA1,Benign,17,41258531,41258531,reviewed by expert panel
+45978,single nucleotide variant,NM_007294.4(BRCA1):c.161A>G (p.Gln54Arg),BRCA1,Conflicting classifications of pathogenicity,17,41258524,41258524,"criteria provided, conflicting classifications"
+45979,single nucleotide variant,NM_007294.4(BRCA1):c.1648A>C (p.Asn550His),BRCA1,Benign,17,41245900,41245900,reviewed by expert panel
+45980,single nucleotide variant,NM_007294.4(BRCA1):c.1672A>C (p.Lys558Gln),BRCA1,Conflicting classifications of pathogenicity,17,41245876,41245876,"criteria provided, conflicting classifications"
+45981,Deletion,NM_007294.4(BRCA1):c.1674del (p.Gly559fs),BRCA1,Pathogenic,17,41245874,41245874,reviewed by expert panel
+45982,single nucleotide variant,NM_007294.4(BRCA1):c.1687C>T (p.Gln563Ter),BRCA1,Pathogenic,17,41245861,41245861,reviewed by expert panel
+45983,single nucleotide variant,NM_007294.4(BRCA1):c.1690A>T (p.Asn564Tyr),BRCA1,Conflicting classifications of pathogenicity,17,41245858,41245858,"criteria provided, conflicting classifications"
+45984,Duplication,NM_007294.4(BRCA1):c.1728dup (p.Glu577fs),BRCA1,Pathogenic,17,41245819,41245820,reviewed by expert panel
+45985,single nucleotide variant,NM_007294.4(BRCA1):c.1826A>G (p.Asn609Ser),BRCA1,Conflicting classifications of pathogenicity,17,41245722,41245722,"criteria provided, conflicting classifications"
+45986,Microsatellite,NM_007294.4(BRCA1):c.1843TCT[1] (p.Ser616del),BRCA1,Benign,17,41245700,41245702,reviewed by expert panel
+45987,Deletion,NM_007294.4(BRCA1):c.1854del (p.Arg618fs),BRCA1,Pathogenic,17,41245694,41245694,reviewed by expert panel
+45988,Insertion,NM_007294.3(BRCA1):c.1877_1878ins4,BRCA1,Pathogenic,17,41245670,41245671,no assertion criteria provided
+45989,single nucleotide variant,NM_007294.4(BRCA1):c.1912G>A (p.Glu638Lys),BRCA1,Conflicting classifications of pathogenicity,17,41245636,41245636,"criteria provided, conflicting classifications"
+45990,Duplication,NM_007294.4(BRCA1):c.1921dup (p.Ile641fs),BRCA1,Pathogenic,17,41245626,41245627,reviewed by expert panel
+45991,Deletion,NM_007294.4(BRCA1):c.1953_1956del (p.Lys653fs),BRCA1,Pathogenic,17,41245592,41245595,reviewed by expert panel
+45992,single nucleotide variant,NM_007294.4(BRCA1):c.1960A>T (p.Lys654Ter),BRCA1,Pathogenic,17,41245588,41245588,reviewed by expert panel
+45994,Deletion,NM_007294.4(BRCA1):c.1961del (p.Lys654fs),BRCA1,Pathogenic,17,41245587,41245587,reviewed by expert panel
+45995,Deletion,NM_007294.4(BRCA1):c.1972del (p.Met658fs),BRCA1,Pathogenic,17,41245576,41245576,reviewed by expert panel
+45996,single nucleotide variant,NM_007294.4(BRCA1):c.19C>T (p.Arg7Cys),BRCA1,Conflicting classifications of pathogenicity,17,41276095,41276095,"criteria provided, conflicting classifications"
+45997,single nucleotide variant,NM_007294.4(BRCA1):c.2002C>T (p.Leu668Phe),BRCA1,Benign,17,41245546,41245546,reviewed by expert panel
+45998,single nucleotide variant,NM_007294.4(BRCA1):c.2006T>C (p.Met669Thr),BRCA1,Conflicting classifications of pathogenicity,17,41245542,41245542,"criteria provided, conflicting classifications"
+45999,single nucleotide variant,NM_007294.4(BRCA1):c.2060A>C (p.Gln687Pro),BRCA1,Conflicting classifications of pathogenicity,17,41245488,41245488,"criteria provided, conflicting classifications"
+46000,Deletion,NM_007294.4(BRCA1):c.2071del (p.Arg691fs),BRCA1,Pathogenic,17,41245477,41245477,reviewed by expert panel
+46001,Duplication,NM_007294.4(BRCA1):c.2105dup (p.Leu702fs),BRCA1,Pathogenic,17,41245442,41245443,reviewed by expert panel
+46002,single nucleotide variant,NM_007294.4(BRCA1):c.212+1G>A,BRCA1,Pathogenic,17,41258472,41258472,reviewed by expert panel
+46003,single nucleotide variant,NM_007294.4(BRCA1):c.2123C>A (p.Ser708Tyr),BRCA1,Conflicting classifications of pathogenicity,17,41245425,41245425,"criteria provided, conflicting classifications"
+46004,Insertion,NM_007294.3(BRCA1):c.2125_2126ins3,BRCA1,Pathogenic,17,41245422,41245423,no assertion criteria provided
+46005,single nucleotide variant,NM_007294.4(BRCA1):c.213-11T>G,BRCA1,Pathogenic,17,41256984,41256984,"criteria provided, multiple submitters, no conflicts"
+46006,single nucleotide variant,NM_007294.4(BRCA1):c.213-12A>G,BRCA1,Pathogenic,17,41256985,41256985,reviewed by expert panel
+46007,single nucleotide variant,NM_007294.4(BRCA1):c.2138C>G (p.Ser713Ter),BRCA1,Pathogenic,17,41245410,41245410,reviewed by expert panel
+46008,single nucleotide variant,NM_007294.4(BRCA1):c.2155A>G (p.Lys719Glu),BRCA1,Benign,17,41245393,41245393,reviewed by expert panel
+46009,single nucleotide variant,NM_007294.4(BRCA1):c.2158G>T (p.Glu720Ter),BRCA1,Pathogenic,17,41245390,41245390,reviewed by expert panel
+46010,single nucleotide variant,NM_007294.4(BRCA1):c.2167A>G (p.Asn723Asp),BRCA1,Benign,17,41245381,41245381,reviewed by expert panel
+46011,single nucleotide variant,NM_007294.4(BRCA1):c.2207A>C (p.Glu736Ala),BRCA1,Benign/Likely benign,17,41245341,41245341,"criteria provided, multiple submitters, no conflicts"
+46012,Deletion,NM_007294.4(BRCA1):c.2210_2211del (p.Thr737fs),BRCA1,Pathogenic,17,41245337,41245338,reviewed by expert panel
+46013,Duplication,NM_007294.4(BRCA1):c.2213_2214dup (p.Lys739fs),BRCA1,Pathogenic,17,41245333,41245334,reviewed by expert panel
+46015,Deletion,NM_007294.4(BRCA1):c.2269del (p.Val757fs),BRCA1,Pathogenic,17,41245279,41245279,reviewed by expert panel
+46016,single nucleotide variant,NM_007294.4(BRCA1):c.2281G>A (p.Glu761Lys),BRCA1,Conflicting classifications of pathogenicity,17,41245267,41245267,"criteria provided, conflicting classifications"
+46017,single nucleotide variant,NM_007294.4(BRCA1):c.2299A>G (p.Ser767Gly),BRCA1,Conflicting classifications of pathogenicity,17,41245249,41245249,"criteria provided, conflicting classifications"
+46018,Deletion,NM_007294.4(BRCA1):c.2299del (p.Ser767fs),BRCA1,Pathogenic,17,41245249,41245249,reviewed by expert panel
+46019,single nucleotide variant,NM_007294.4(BRCA1):c.2329T>G (p.Tyr777Asp),BRCA1,Conflicting classifications of pathogenicity,17,41245219,41245219,"criteria provided, conflicting classifications"
+46020,single nucleotide variant,NM_007294.4(BRCA1):c.2351C>T (p.Ser784Leu),BRCA1,Benign,17,41245197,41245197,reviewed by expert panel
+46021,single nucleotide variant,NM_007294.4(BRCA1):c.2368A>G (p.Thr790Ala),BRCA1,Conflicting classifications of pathogenicity,17,41245180,41245180,"criteria provided, conflicting classifications"
+46022,Deletion,NM_007294.4(BRCA1):c.2411_2412del (p.Gln804fs),BRCA1,Pathogenic,17,41245136,41245137,reviewed by expert panel
+46023,Deletion,NM_007294.4(BRCA1):c.2424del (p.Phe808fs),BRCA1,Pathogenic,17,41245124,41245124,reviewed by expert panel
+46024,single nucleotide variant,NM_007294.4(BRCA1):c.2426A>G (p.Glu809Gly),BRCA1,Conflicting classifications of pathogenicity,17,41245122,41245122,"criteria provided, conflicting classifications"
+46025,Deletion,NM_007294.4(BRCA1):c.2433del (p.Lys812fs),BRCA1,Pathogenic,17,41245115,41245115,reviewed by expert panel
+46026,single nucleotide variant,NM_007294.4(BRCA1):c.2447A>G (p.His816Arg),BRCA1,Conflicting classifications of pathogenicity,17,41245101,41245101,"criteria provided, conflicting classifications"
+46027,Deletion,NM_007294.4(BRCA1):c.2457del (p.Asp821fs),BRCA1,Pathogenic,17,41245091,41245091,reviewed by expert panel
+46028,Deletion,NM_007294.4(BRCA1):c.2475del (p.Asp825fs),BRCA1,Pathogenic,17,41245073,41245073,reviewed by expert panel
+46029,single nucleotide variant,NM_007294.4(BRCA1):c.2477C>A (p.Thr826Lys),BRCA1,Benign,17,41245071,41245071,reviewed by expert panel
+46030,Deletion,NM_007294.4(BRCA1):c.2515del (p.His839fs),BRCA1,Pathogenic,17,41245033,41245033,reviewed by expert panel
+46031,single nucleotide variant,NM_007294.4(BRCA1):c.2563C>T (p.Gln855Ter),BRCA1,Pathogenic,17,41244985,41244985,reviewed by expert panel
+46032,single nucleotide variant,NM_007294.4(BRCA1):c.2584A>G (p.Lys862Glu),BRCA1,Benign,17,41244964,41244964,reviewed by expert panel
+46033,single nucleotide variant,NM_007294.4(BRCA1):c.2603C>G (p.Ser868Ter),BRCA1,Pathogenic,17,41244945,41244945,reviewed by expert panel
+46034,single nucleotide variant,NM_007294.4(BRCA1):c.2635G>T (p.Glu879Ter),BRCA1,Pathogenic,17,41244913,41244913,reviewed by expert panel
+46035,single nucleotide variant,NM_007294.4(BRCA1):c.2669G>T (p.Gly890Val),BRCA1,Benign,17,41244879,41244879,reviewed by expert panel
+46036,single nucleotide variant,NM_007294.4(BRCA1):c.2677A>T (p.Lys893Ter),BRCA1,Pathogenic,17,41244871,41244871,reviewed by expert panel
+46037,Deletion,NM_007294.4(BRCA1):c.2679_2682del (p.Lys893fs),BRCA1,Pathogenic,17,41244866,41244869,reviewed by expert panel
+46038,single nucleotide variant,NM_007294.4(BRCA1):c.2702T>C (p.Phe901Ser),BRCA1,Conflicting classifications of pathogenicity,17,41244846,41244846,"criteria provided, conflicting classifications"
+46039,Duplication,NM_007294.4(BRCA1):c.2706_2707dup (p.Cys903fs),BRCA1,Pathogenic,17,41244840,41244841,reviewed by expert panel
+46040,single nucleotide variant,NM_007294.4(BRCA1):c.2710G>T (p.Glu904Ter),BRCA1,Pathogenic,17,41244838,41244838,reviewed by expert panel
+46041,single nucleotide variant,NM_007294.4(BRCA1):c.2714A>G (p.Gln905Arg),BRCA1,Conflicting classifications of pathogenicity,17,41244834,41244834,"criteria provided, conflicting classifications"
+46042,single nucleotide variant,NM_007294.4(BRCA1):c.2726A>T (p.Asn909Ile),BRCA1,Conflicting classifications of pathogenicity,17,41244822,41244822,"criteria provided, conflicting classifications"
+46043,single nucleotide variant,NM_007294.4(BRCA1):c.2735A>G (p.Lys912Arg),BRCA1,Likely benign,17,41244813,41244813,"criteria provided, multiple submitters, no conflicts"
+46044,single nucleotide variant,NM_007294.4(BRCA1):c.2758G>A (p.Val920Ile),BRCA1,Benign,17,41244790,41244790,reviewed by expert panel
+46045,single nucleotide variant,NM_007294.4(BRCA1):c.2773A>C (p.Ile925Leu),BRCA1,Benign,17,41244775,41244775,reviewed by expert panel
+46046,single nucleotide variant,NM_007294.4(BRCA1):c.2798G>A (p.Gly933Asp),BRCA1,Conflicting classifications of pathogenicity,17,41244750,41244750,"criteria provided, conflicting classifications"
+46047,Deletion,NM_007294.4(BRCA1):c.2806_2809del (p.Asp936fs),BRCA1,Pathogenic,17,41244739,41244742,reviewed by expert panel
+46048,Insertion,NM_007294.4(BRCA1):c.2864_2865insT (p.Ser956fs),BRCA1,Pathogenic,17,41244683,41244684,"criteria provided, single submitter"
+46049,single nucleotide variant,NM_007294.4(BRCA1):c.2934T>G (p.Tyr978Ter),BRCA1,Pathogenic,17,41244614,41244614,reviewed by expert panel
+46050,single nucleotide variant,NM_007294.4(BRCA1):c.2963C>T (p.Ser988Leu),BRCA1,Conflicting classifications of pathogenicity,17,41244585,41244585,"criteria provided, conflicting classifications"
+46051,Deletion,NM_007294.4(BRCA1):c.2981_2982del (p.Lys993_Cys994insTer),BRCA1,Pathogenic,17,41244566,41244567,reviewed by expert panel
+46055,single nucleotide variant,NM_007294.4(BRCA1):c.301+7G>A,BRCA1,Benign,17,41256878,41256878,reviewed by expert panel
+46056,single nucleotide variant,NM_007294.4(BRCA1):c.302-2A>C,BRCA1,Pathogenic/Likely pathogenic,17,41256280,41256280,"criteria provided, multiple submitters, no conflicts"
+46057,single nucleotide variant,NM_007294.4(BRCA1):c.302-3C>G,BRCA1,Pathogenic/Likely pathogenic,17,41256281,41256281,"criteria provided, multiple submitters, no conflicts"
+46058,Microsatellite,NM_007294.4(BRCA1):c.3037_3038del (p.Glu1013fs),BRCA1,Pathogenic,17,41244510,41244511,reviewed by expert panel
+46059,Insertion,NM_007294.3(BRCA1):c.3052_3053ins5,BRCA1,Pathogenic,17,41244495,41244496,"criteria provided, single submitter"
+46060,single nucleotide variant,NM_007294.4(BRCA1):c.3055A>G (p.Ile1019Val),BRCA1,Conflicting classifications of pathogenicity,17,41244493,41244493,"criteria provided, conflicting classifications"
+46061,single nucleotide variant,NM_007294.4(BRCA1):c.305C>G (p.Ala102Gly),BRCA1,Benign,17,41256275,41256275,reviewed by expert panel
+46062,single nucleotide variant,NM_007294.4(BRCA1):c.3082C>T (p.Arg1028Cys),BRCA1,Benign,17,41244466,41244466,reviewed by expert panel
+46063,single nucleotide variant,NM_007294.4(BRCA1):c.3083G>A (p.Arg1028His),BRCA1,Benign,17,41244465,41244465,reviewed by expert panel
+46065,single nucleotide variant,NM_007294.4(BRCA1):c.3112G>T (p.Glu1038Ter),BRCA1,Pathogenic,17,41244436,41244436,reviewed by expert panel
+46066,single nucleotide variant,NM_007294.4(BRCA1):c.3130A>G (p.Ile1044Val),BRCA1,Benign,17,41244418,41244418,reviewed by expert panel
+46067,Insertion,NM_007294.3(BRCA1):c.3164_3165ins4,BRCA1,Pathogenic,17,41244383,41244384,no assertion criteria provided
+46068,Deletion,NM_007294.4(BRCA1):c.3174del (p.Asn1059fs),BRCA1,Pathogenic,17,41244374,41244374,reviewed by expert panel
+46069,single nucleotide variant,NM_007294.4(BRCA1):c.3185G>T (p.Gly1062Val),BRCA1,Conflicting classifications of pathogenicity,17,41244363,41244363,"criteria provided, conflicting classifications"
+46071,single nucleotide variant,NM_007294.4(BRCA1):c.3209C>G (p.Ala1070Gly),BRCA1,Conflicting classifications of pathogenicity,17,41244339,41244339,"criteria provided, conflicting classifications"
+46072,Microsatellite,NM_007294.4(BRCA1):c.3228_3229del (p.Gly1077fs),BRCA1,Pathogenic,17,41244319,41244320,reviewed by expert panel
+46073,single nucleotide variant,NM_007294.4(BRCA1):c.3247A>C (p.Met1083Leu),BRCA1,Conflicting classifications of pathogenicity,17,41244301,41244301,"criteria provided, conflicting classifications"
+46077,Deletion,NM_007294.4(BRCA1):c.329del (p.Lys110fs),BRCA1,Pathogenic,17,41256251,41256251,reviewed by expert panel
+46078,single nucleotide variant,NM_007294.4(BRCA1):c.3327A>C (p.Lys1109Asn),BRCA1,Benign,17,41244221,41244221,reviewed by expert panel
+46079,Deletion,NM_007294.4(BRCA1):c.3331_3334del (p.Gln1111fs),BRCA1,Pathogenic,17,41244214,41244217,reviewed by expert panel
+46080,single nucleotide variant,NM_007294.4(BRCA1):c.3352C>T (p.Gln1118Ter),BRCA1,Pathogenic,17,41244196,41244196,reviewed by expert panel
+46081,single nucleotide variant,NM_007294.4(BRCA1):c.3354G>T (p.Gln1118His),BRCA1,Conflicting classifications of pathogenicity,17,41244194,41244194,"criteria provided, conflicting classifications"
+46082,Deletion,NM_007294.4(BRCA1):c.3358_3359del (p.Thr1119_Val1120insTer),BRCA1,Pathogenic,17,41244189,41244190,reviewed by expert panel
+46083,single nucleotide variant,NM_007294.4(BRCA1):c.3362A>G (p.Asn1121Ser),BRCA1,Conflicting classifications of pathogenicity,17,41244186,41244186,"criteria provided, conflicting classifications"
+46084,single nucleotide variant,NM_007294.4(BRCA1):c.3389C>G (p.Ser1130Ter),BRCA1,Pathogenic,17,41244159,41244159,reviewed by expert panel
+46085,single nucleotide variant,NM_007294.4(BRCA1):c.3400G>T (p.Glu1134Ter),BRCA1,Pathogenic,17,41244148,41244148,reviewed by expert panel
+46086,Deletion,NM_007294.4(BRCA1):c.3442del (p.Glu1148fs),BRCA1,Pathogenic,17,41244106,41244106,reviewed by expert panel
+46087,Deletion,NM_007294.4(BRCA1):c.3485del (p.Asp1162fs),BRCA1,Pathogenic,17,41244063,41244063,reviewed by expert panel
+46088,Deletion,NM_007294.4(BRCA1):c.3503del (p.Asn1168fs),BRCA1,Pathogenic,17,41244045,41244045,reviewed by expert panel
+46089,Deletion,NM_007294.4(BRCA1):c.3612del (p.Ala1206fs),BRCA1,Pathogenic,17,41243936,41243936,reviewed by expert panel
+46090,Duplication,NM_007294.4(BRCA1):c.3627dup (p.Glu1210fs),BRCA1,Pathogenic,17,41243920,41243921,reviewed by expert panel
+46091,Duplication,NM_007294.4(BRCA1):c.3648dup (p.Ser1217fs),BRCA1,Pathogenic,17,41243900,41243900,reviewed by expert panel
+46092,single nucleotide variant,NM_007294.4(BRCA1):c.3652A>G (p.Ser1218Gly),BRCA1,Conflicting classifications of pathogenicity,17,41243896,41243896,"criteria provided, conflicting classifications"
+46093,single nucleotide variant,NM_007294.4(BRCA1):c.3657G>C (p.Glu1219Asp),BRCA1,Benign,17,41243891,41243891,reviewed by expert panel
+46094,Insertion,NM_007294.3(BRCA1):c.3671_3672ins4,BRCA1,Pathogenic,17,41243876,41243877,no assertion criteria provided
+46095,Deletion,NM_007294.4(BRCA1):c.3683del (p.His1228fs),BRCA1,Pathogenic,17,41243865,41243865,reviewed by expert panel
+46096,single nucleotide variant,NM_007294.4(BRCA1):c.3689T>G (p.Leu1230Ter),BRCA1,Pathogenic,17,41243859,41243859,reviewed by expert panel
+46097,single nucleotide variant,NM_007294.4(BRCA1):c.3691T>C (p.Phe1231Leu),BRCA1,Conflicting classifications of pathogenicity,17,41243857,41243857,"criteria provided, conflicting classifications"
+46098,Microsatellite,NM_007294.4(BRCA1):c.3700_3704del (p.Val1234fs),BRCA1,Pathogenic,17,41243844,41243848,reviewed by expert panel
+46099,single nucleotide variant,NM_007294.4(BRCA1):c.3713C>T (p.Pro1238Leu),BRCA1,Benign,17,41243835,41243835,reviewed by expert panel
+46100,Deletion,NM_007294.4(BRCA1):c.3759_3760del (p.Lys1254fs),BRCA1,Pathogenic,17,41243788,41243789,reviewed by expert panel
+46101,Duplication,NM_007294.4(BRCA1):c.3764dup (p.Asn1255fs),BRCA1,Pathogenic,17,41243783,41243784,reviewed by expert panel
+46102,Microsatellite,NM_007294.4(BRCA1):c.3770_3771del (p.Glu1257fs),BRCA1,Pathogenic,17,41243777,41243778,reviewed by expert panel
+46103,Indel,NM_007294.4(BRCA1):c.3771_3772delinsC (p.Glu1257fs),BRCA1,Pathogenic,17,41243776,41243777,reviewed by expert panel
+46104,single nucleotide variant,NM_007294.4(BRCA1):c.3782T>C (p.Leu1261Ser),BRCA1,Conflicting classifications of pathogenicity,17,41243766,41243766,"criteria provided, conflicting classifications"
+46105,single nucleotide variant,NM_007294.4(BRCA1):c.3823A>G (p.Ile1275Val),BRCA1,Benign,17,41243725,41243725,reviewed by expert panel
+46106,Duplication,NM_007294.4(BRCA1):c.3825dup (p.Leu1276fs),BRCA1,Pathogenic,17,41243722,41243723,reviewed by expert panel
+46109,Deletion,NM_007294.4(BRCA1):c.3858_3861del (p.Ser1286fs),BRCA1,Pathogenic,17,41243687,41243690,reviewed by expert panel
+46110,single nucleotide variant,NM_007294.4(BRCA1):c.3868A>T (p.Lys1290Ter),BRCA1,Pathogenic,17,41243680,41243680,reviewed by expert panel
+46111,single nucleotide variant,NM_007294.4(BRCA1):c.3877G>C (p.Ala1293Pro),BRCA1,Conflicting classifications of pathogenicity,17,41243671,41243671,"criteria provided, conflicting classifications"
+46112,single nucleotide variant,NM_007294.4(BRCA1):c.3937C>T (p.Gln1313Ter),BRCA1,Pathogenic,17,41243611,41243611,reviewed by expert panel
+46113,single nucleotide variant,NM_007294.4(BRCA1):c.398G>A (p.Arg133His),BRCA1,Conflicting classifications of pathogenicity,17,41256182,41256182,"criteria provided, conflicting classifications"
+46114,single nucleotide variant,NM_007294.4(BRCA1):c.3991C>T (p.Gln1331Ter),BRCA1,Pathogenic,17,41243557,41243557,reviewed by expert panel
+46115,single nucleotide variant,NM_007294.4(BRCA1):c.4015G>T (p.Glu1339Ter),BRCA1,Pathogenic,17,41243533,41243533,reviewed by expert panel
+46116,Deletion,NM_007294.4(BRCA1):c.4035del (p.Glu1346fs),BRCA1,Pathogenic,17,41243513,41243513,reviewed by expert panel
+46117,single nucleotide variant,NM_007294.4(BRCA1):c.4036G>A (p.Glu1346Lys),BRCA1,Benign/Likely benign,17,41243512,41243512,"criteria provided, multiple submitters, no conflicts"
+46118,single nucleotide variant,NM_007294.4(BRCA1):c.4073A>G (p.Glu1358Gly),BRCA1,Conflicting classifications of pathogenicity,17,41243475,41243475,"criteria provided, conflicting classifications"
+46119,single nucleotide variant,NM_007294.4(BRCA1):c.4075C>G (p.Gln1359Glu),BRCA1,Conflicting classifications of pathogenicity,17,41243473,41243473,"criteria provided, conflicting classifications"
+46120,single nucleotide variant,NM_007294.4(BRCA1):c.4083G>A (p.Met1361Ile),BRCA1,Conflicting classifications of pathogenicity,17,41243465,41243465,"criteria provided, conflicting classifications"
+46121,single nucleotide variant,NM_007294.4(BRCA1):c.4096+1G>A,BRCA1,Uncertain significance,17,41243451,41243451,reviewed by expert panel
+46122,single nucleotide variant,NM_007294.4(BRCA1):c.4096+3A>G,BRCA1,Uncertain significance,17,41243449,41243449,reviewed by expert panel
+46123,single nucleotide variant,NM_007294.4(BRCA1):c.4097-1G>A,BRCA1,Pathogenic,17,41243050,41243050,reviewed by expert panel
+46124,Microsatellite,NM_007294.4(BRCA1):c.4116_4117del (p.Cys1372_Glu1373delinsTer),BRCA1,Pathogenic,17,41243029,41243030,reviewed by expert panel
+46125,single nucleotide variant,NM_007294.4(BRCA1):c.4117G>T (p.Glu1373Ter),BRCA1,Pathogenic,17,41243029,41243029,reviewed by expert panel
+46126,Microsatellite,NM_007294.4(BRCA1):c.4120_4121del (p.Glu1373_Ser1374insTer),BRCA1,Pathogenic,17,41243025,41243026,reviewed by expert panel
+46127,single nucleotide variant,NM_007294.4(BRCA1):c.4127C>G (p.Thr1376Arg),BRCA1,Conflicting classifications of pathogenicity,17,41243019,41243019,"criteria provided, conflicting classifications"
+46128,single nucleotide variant,NM_007294.4(BRCA1):c.4148C>G (p.Ser1383Ter),BRCA1,Pathogenic,17,41242998,41242998,reviewed by expert panel
+46129,single nucleotide variant,NM_007294.4(BRCA1):c.4181C>T (p.Thr1394Ile),BRCA1,Conflicting classifications of pathogenicity,17,41242965,41242965,"criteria provided, conflicting classifications"
+46130,Indel,NM_007294.4(BRCA1):c.4185+2_4185+22delinsA,BRCA1,Pathogenic,17,41242939,41242959,reviewed by expert panel
+46131,single nucleotide variant,NM_007294.4(BRCA1):c.4213A>G (p.Ile1405Val),BRCA1,Likely benign,17,41234565,41234565,"criteria provided, multiple submitters, no conflicts"
+46132,single nucleotide variant,NM_007294.4(BRCA1):c.4219C>G (p.Leu1407Val),BRCA1,Uncertain significance,17,41234559,41234559,"criteria provided, multiple submitters, no conflicts"
+46134,Deletion,NM_007294.4(BRCA1):c.4243del (p.Glu1415fs),BRCA1,Pathogenic,17,41234535,41234535,reviewed by expert panel
+46135,Microsatellite,NM_007294.4(BRCA1):c.4251_4252del (p.Leu1418fs),BRCA1,Pathogenic,17,41234526,41234527,reviewed by expert panel
+46136,single nucleotide variant,NM_007294.4(BRCA1):c.427G>A (p.Glu143Lys),BRCA1,Benign,17,41256153,41256153,reviewed by expert panel
+46137,single nucleotide variant,NM_007294.4(BRCA1):c.427G>T (p.Glu143Ter),BRCA1,Pathogenic,17,41256153,41256153,reviewed by expert panel
+46138,single nucleotide variant,NM_007294.4(BRCA1):c.429A>C (p.Glu143Asp),BRCA1,Conflicting classifications of pathogenicity,17,41256151,41256151,"criteria provided, conflicting classifications"
+46139,single nucleotide variant,NM_007294.4(BRCA1):c.42C>A (p.Val14=),BRCA1,Likely benign,17,41276072,41276072,reviewed by expert panel
+46140,single nucleotide variant,NM_007294.4(BRCA1):c.4357+1G>A,BRCA1,Pathogenic,17,41234420,41234420,reviewed by expert panel
+46141,single nucleotide variant,NM_007294.4(BRCA1):c.4357+6T>C,BRCA1,Conflicting classifications of pathogenicity,17,41234415,41234415,"criteria provided, conflicting classifications"
+46142,Deletion,NM_007294.4(BRCA1):c.4387del (p.Tyr1463fs),BRCA1,Pathogenic,17,41228602,41228602,reviewed by expert panel
+46143,Insertion,NM_007294.3(BRCA1):c.4388_4389ins7,BRCA1,Pathogenic,17,41228600,41228601,no assertion criteria provided
+46144,Indel,NM_007294.4(BRCA1):c.4391_4393delinsTT (p.Pro1464fs),BRCA1,Pathogenic,17,41228596,41228598,reviewed by expert panel
+46145,Deletion,NM_007294.4(BRCA1):c.4391del (p.Pro1464fs),BRCA1,Pathogenic,17,41228598,41228598,reviewed by expert panel
+46146,Deletion,NM_007294.4(BRCA1):c.4393del (p.Pro1464_Ile1465insTer),BRCA1,Pathogenic,17,41228596,41228596,reviewed by expert panel
+46147,single nucleotide variant,NM_007294.4(BRCA1):c.4402A>G (p.Asn1468Asp),BRCA1,Uncertain significance,17,41228587,41228587,"criteria provided, multiple submitters, no conflicts"
+46148,Duplication,NM_007294.4(BRCA1):c.4427dup (p.Phe1477fs),BRCA1,Pathogenic,17,41228561,41228562,reviewed by expert panel
+46149,single nucleotide variant,NM_007294.4(BRCA1):c.4456A>T (p.Ser1486Cys),BRCA1,Uncertain significance,17,41228533,41228533,"criteria provided, multiple submitters, no conflicts"
+46150,single nucleotide variant,NM_007294.4(BRCA1):c.446A>C (p.Glu149Ala),BRCA1,Conflicting classifications of pathogenicity,17,41251893,41251893,"criteria provided, conflicting classifications"
+46151,Deletion,NM_007294.4(BRCA1):c.4482_4483del (p.Arg1495fs),BRCA1,Pathogenic,17,41228506,41228507,reviewed by expert panel
+46152,single nucleotide variant,NM_007294.4(BRCA1):c.4484+1G>A,BRCA1,Pathogenic,17,41228504,41228504,"criteria provided, multiple submitters, no conflicts"
+46153,single nucleotide variant,NM_007294.4(BRCA1):c.4484G>A (p.Arg1495Lys),BRCA1,Pathogenic,17,41228505,41228505,"criteria provided, multiple submitters, no conflicts"
+46154,single nucleotide variant,NM_007294.4(BRCA1):c.4484G>T (p.Arg1495Met),BRCA1,Pathogenic,17,41228505,41228505,"criteria provided, multiple submitters, no conflicts"
+46155,single nucleotide variant,NM_007294.4(BRCA1):c.4485-8C>T,BRCA1,Conflicting classifications of pathogenicity,17,41226546,41226546,"criteria provided, conflicting classifications"
+46156,single nucleotide variant,NM_007294.4(BRCA1):c.457A>C (p.Ser153Arg),BRCA1,Likely benign,17,41251882,41251882,"criteria provided, multiple submitters, no conflicts"
+46157,single nucleotide variant,NM_007294.4(BRCA1):c.4638T>G (p.Asp1546Glu),BRCA1,Conflicting classifications of pathogenicity,17,41226385,41226385,"criteria provided, conflicting classifications"
+46158,Duplication,NM_007294.4(BRCA1):c.466dup (p.Leu156fs),BRCA1,Pathogenic,17,41251872,41251873,reviewed by expert panel
+46159,single nucleotide variant,NM_007294.4(BRCA1):c.4675+7T>C,BRCA1,Likely benign,17,41226341,41226341,"criteria provided, multiple submitters, no conflicts"
+46160,single nucleotide variant,NM_007294.4(BRCA1):c.4675G>A (p.Glu1559Lys),BRCA1,Pathogenic,17,41226348,41226348,reviewed by expert panel
+46161,single nucleotide variant,NM_007294.4(BRCA1):c.4675G>C (p.Glu1559Gln),BRCA1,Pathogenic/Likely pathogenic,17,41226348,41226348,"criteria provided, multiple submitters, no conflicts"
+46162,single nucleotide variant,NM_007294.4(BRCA1):c.4676-7C>T,BRCA1,Benign/Likely benign,17,41223262,41223262,"criteria provided, multiple submitters, no conflicts"
+46163,single nucleotide variant,NM_007294.4(BRCA1):c.4689C>G (p.Tyr1563Ter),BRCA1,Pathogenic,17,41223242,41223242,reviewed by expert panel
+46164,Microsatellite,NM_007294.4(BRCA1):c.470_471del (p.Leu156_Ser157insTer),BRCA1,Pathogenic,17,41251868,41251869,reviewed by expert panel
+46165,Microsatellite,NM_007294.4(BRCA1):c.4749_4750del (p.Arg1583fs),BRCA1,Pathogenic,17,41223181,41223182,reviewed by expert panel
+46166,Indel,NM_007294.4(BRCA1):c.4775_4779delinsC (p.Asn1592fs),BRCA1,Pathogenic,17,41223152,41223156,reviewed by expert panel
+46167,Deletion,NM_007294.4(BRCA1):c.4807_4821del (p.Pro1603_Val1607del),BRCA1,Uncertain significance,17,41223110,41223124,"criteria provided, multiple submitters, no conflicts"
+46168,single nucleotide variant,NM_007294.4(BRCA1):c.4816A>G (p.Lys1606Glu),BRCA1,Benign,17,41223115,41223115,reviewed by expert panel
+46169,single nucleotide variant,NM_007294.4(BRCA1):c.4837A>T (p.Ser1613Cys),BRCA1,Benign/Likely benign,17,41223094,41223094,"criteria provided, multiple submitters, no conflicts"
+46170,single nucleotide variant,NM_007294.4(BRCA1):c.4868C>G (p.Ala1623Gly),BRCA1,Pathogenic/Likely pathogenic,17,41223063,41223063,"criteria provided, multiple submitters, no conflicts"
+46171,single nucleotide variant,NM_007294.4(BRCA1):c.4955T>C (p.Met1652Thr),BRCA1,Benign,17,41222976,41222976,reviewed by expert panel
+46172,Deletion,NM_007294.4(BRCA1):c.4964_4982del (p.Ser1655fs),BRCA1,Pathogenic,17,41222949,41222967,reviewed by expert panel
+46174,single nucleotide variant,NM_007294.4(BRCA1):c.4986+1G>T,BRCA1,Pathogenic,17,41222944,41222944,"criteria provided, multiple submitters, no conflicts"
+46175,single nucleotide variant,NM_007294.4(BRCA1):c.4986+4A>C,BRCA1,Pathogenic/Likely pathogenic,17,41222941,41222941,"criteria provided, multiple submitters, no conflicts"
+46176,single nucleotide variant,NM_007294.4(BRCA1):c.4986+6T>C,BRCA1,Pathogenic/Likely pathogenic,17,41222939,41222939,"criteria provided, multiple submitters, no conflicts"
+46177,single nucleotide variant,NM_007294.4(BRCA1):c.4991T>C (p.Leu1664Pro),BRCA1,Benign,17,41219708,41219708,reviewed by expert panel
+46179,Deletion,NM_007294.4(BRCA1):c.5030_5033del (p.Thr1677fs),BRCA1,Pathogenic,17,41219666,41219669,reviewed by expert panel
+46180,Microsatellite,NM_007294.4(BRCA1):c.5035_5039del (p.Leu1679fs),BRCA1,Pathogenic,17,41219660,41219664,reviewed by expert panel
+46181,single nucleotide variant,NM_007294.4(BRCA1):c.5066T>G (p.Met1689Arg),BRCA1,Pathogenic/Likely pathogenic,17,41219633,41219633,"criteria provided, multiple submitters, no conflicts"
+46182,single nucleotide variant,NM_007294.4(BRCA1):c.5068A>T (p.Lys1690Ter),BRCA1,Pathogenic,17,41219631,41219631,reviewed by expert panel
+46183,single nucleotide variant,NM_007294.4(BRCA1):c.5072C>A (p.Thr1691Lys),BRCA1,Pathogenic/Likely pathogenic,17,41219627,41219627,"criteria provided, multiple submitters, no conflicts"
+46184,single nucleotide variant,NM_007294.4(BRCA1):c.5072C>T (p.Thr1691Ile),BRCA1,Pathogenic/Likely pathogenic,17,41219627,41219627,"criteria provided, multiple submitters, no conflicts"
+46185,single nucleotide variant,NM_007294.4(BRCA1):c.5074+1G>A,BRCA1,Pathogenic,17,41219624,41219624,reviewed by expert panel
+46186,single nucleotide variant,NM_007294.4(BRCA1):c.5074+1G>T,BRCA1,Pathogenic,17,41219624,41219624,reviewed by expert panel
+46187,single nucleotide variant,NM_007294.4(BRCA1):c.5074+2T>C,BRCA1,Pathogenic,17,41219623,41219623,reviewed by expert panel
+46188,single nucleotide variant,NM_007294.4(BRCA1):c.5074G>A (p.Asp1692Asn),BRCA1,Pathogenic/Likely pathogenic,17,41219625,41219625,"criteria provided, multiple submitters, no conflicts"
+46189,single nucleotide variant,NM_007294.4(BRCA1):c.5074G>C (p.Asp1692His),BRCA1,Pathogenic,17,41219625,41219625,reviewed by expert panel
+46190,single nucleotide variant,NM_007294.4(BRCA1):c.5075-6C>A,BRCA1,Conflicting classifications of pathogenicity,17,41215974,41215974,"criteria provided, conflicting classifications"
+46191,single nucleotide variant,NM_007294.4(BRCA1):c.5090G>A (p.Cys1697Tyr),BRCA1,Likely pathogenic,17,41215953,41215953,reviewed by expert panel
+46192,single nucleotide variant,NM_007294.4(BRCA1):c.5096G>A (p.Arg1699Gln),BRCA1,Pathogenic,17,41215947,41215947,reviewed by expert panel
+46193,single nucleotide variant,NM_007294.4(BRCA1):c.5114T>C (p.Leu1705Pro),BRCA1,Pathogenic/Likely pathogenic,17,41215929,41215929,"criteria provided, multiple submitters, no conflicts"
+46194,single nucleotide variant,NM_007294.4(BRCA1):c.5117G>A (p.Gly1706Glu),BRCA1,Pathogenic,17,41215926,41215926,reviewed by expert panel
+46195,single nucleotide variant,NM_007294.4(BRCA1):c.5122G>A (p.Ala1708Thr),BRCA1,Conflicting classifications of pathogenicity,17,41215921,41215921,"criteria provided, conflicting classifications"
+46196,single nucleotide variant,NM_007294.4(BRCA1):c.5123C>T (p.Ala1708Val),BRCA1,Conflicting classifications of pathogenicity,17,41215920,41215920,"criteria provided, conflicting classifications"
+46197,single nucleotide variant,NM_007294.4(BRCA1):c.5152+10A>G,BRCA1,Benign/Likely benign,17,41215881,41215881,"criteria provided, multiple submitters, no conflicts"
+46198,single nucleotide variant,NM_007294.4(BRCA1):c.5152+1G>C,BRCA1,Pathogenic,17,41215890,41215890,"criteria provided, multiple submitters, no conflicts"
+46199,single nucleotide variant,NM_007294.4(BRCA1):c.5153-1G>C,BRCA1,Pathogenic,17,41215391,41215391,reviewed by expert panel
+46200,Microsatellite,NM_007294.4(BRCA1):c.5177_5180del (p.Arg1726fs),BRCA1,Pathogenic,17,41215363,41215366,reviewed by expert panel
+46201,single nucleotide variant,NM_007294.4(BRCA1):c.5179A>T (p.Lys1727Ter),BRCA1,Pathogenic,17,41215364,41215364,reviewed by expert panel
+46202,single nucleotide variant,NM_007294.4(BRCA1):c.5191G>T (p.Glu1731Ter),BRCA1,Pathogenic/Likely pathogenic,17,41215352,41215352,"criteria provided, multiple submitters, no conflicts"
+46203,single nucleotide variant,NM_007294.4(BRCA1):c.5194-2A>G,BRCA1,Pathogenic/Likely pathogenic,17,41209154,41209154,"criteria provided, multiple submitters, no conflicts"
+46204,single nucleotide variant,NM_007294.4(BRCA1):c.5207T>C (p.Val1736Ala),BRCA1,Pathogenic,17,41209139,41209139,reviewed by expert panel
+46205,Indel,NM_007294.3(BRCA1):c.5232_5238delAAACCACins12 (p.?),BRCA1,Pathogenic,17,41209108,41209114,no assertion criteria provided
+46206,single nucleotide variant,NM_007294.4(BRCA1):c.5242G>T (p.Gly1748Cys),BRCA1,Likely pathogenic,17,41209104,41209104,reviewed by expert panel
+46207,Deletion,NM_007294.4(BRCA1):c.5259del (p.Glu1754fs),BRCA1,Pathogenic,17,41209087,41209087,reviewed by expert panel
+46210,single nucleotide variant,NM_007294.4(BRCA1):c.5277+1G>A,BRCA1,Pathogenic,17,41209068,41209068,reviewed by expert panel
+46211,Duplication,NM_007294.4(BRCA1):c.5289dup (p.Leu1764fs),BRCA1,Pathogenic,17,41203122,41203123,reviewed by expert panel
+46212,single nucleotide variant,NM_007294.4(BRCA1):c.5297T>G (p.Ile1766Ser),BRCA1,Pathogenic,17,41203115,41203115,reviewed by expert panel
+46213,Deletion,NM_007294.4(BRCA1):c.5335del (p.Gln1779fs),BRCA1,Pathogenic,17,41201209,41201209,reviewed by expert panel
+46214,single nucleotide variant,NM_007294.4(BRCA1):c.5346G>A (p.Trp1782Ter),BRCA1,Pathogenic,17,41201198,41201198,reviewed by expert panel
+46215,single nucleotide variant,NM_007294.4(BRCA1):c.5348T>C (p.Met1783Thr),BRCA1,Conflicting classifications of pathogenicity,17,41201196,41201196,"criteria provided, conflicting classifications"
+46216,single nucleotide variant,NM_007294.4(BRCA1):c.5363G>T (p.Gly1788Val),BRCA1,Pathogenic,17,41201181,41201181,reviewed by expert panel
+46217,single nucleotide variant,NM_007294.4(BRCA1):c.536A>G (p.Tyr179Cys),BRCA1,Benign,17,41251803,41251803,reviewed by expert panel
+46218,Deletion,NM_007294.4(BRCA1):c.5386del (p.Ser1796fs),BRCA1,Pathogenic,17,41201158,41201158,reviewed by expert panel
+46219,single nucleotide variant,NM_007294.4(BRCA1):c.5387C>A (p.Ser1796Ter),BRCA1,Pathogenic,17,41201157,41201157,reviewed by expert panel
+46220,single nucleotide variant,NM_007294.4(BRCA1):c.53T>C (p.Met18Thr),BRCA1,Pathogenic,17,41276061,41276061,reviewed by expert panel
+46222,single nucleotide variant,NM_007294.4(BRCA1):c.5406+1G>A,BRCA1,Pathogenic,17,41201137,41201137,"criteria provided, multiple submitters, no conflicts"
+46223,single nucleotide variant,NM_007294.4(BRCA1):c.5406+5G>T,BRCA1,Pathogenic/Likely pathogenic,17,41201133,41201133,"criteria provided, multiple submitters, no conflicts"
+46224,single nucleotide variant,NM_007294.4(BRCA1):c.5408G>C (p.Gly1803Ala),BRCA1,Pathogenic/Likely pathogenic,17,41199719,41199719,"criteria provided, multiple submitters, no conflicts"
+46225,Deletion,NM_007294.4(BRCA1):c.5417del (p.Pro1806fs),BRCA1,Pathogenic,17,41199710,41199710,reviewed by expert panel
+46226,single nucleotide variant,NM_007294.4(BRCA1):c.5434C>G (p.Pro1812Ala),BRCA1,Pathogenic/Likely pathogenic,17,41199693,41199693,"criteria provided, multiple submitters, no conflicts"
+46227,single nucleotide variant,NM_007294.4(BRCA1):c.543A>G (p.Glu181=),BRCA1,Likely benign,17,41251796,41251796,reviewed by expert panel
+46228,single nucleotide variant,NM_007294.4(BRCA1):c.5453A>G (p.Asp1818Gly),BRCA1,Pathogenic/Likely pathogenic,17,41199674,41199674,"criteria provided, multiple submitters, no conflicts"
+46229,single nucleotide variant,NM_007294.4(BRCA1):c.5467+1G>A,BRCA1,Pathogenic,17,41199659,41199659,"criteria provided, multiple submitters, no conflicts"
+46230,single nucleotide variant,NM_007294.4(BRCA1):c.547+2T>A,BRCA1,Pathogenic,17,41251790,41251790,reviewed by expert panel
+46231,single nucleotide variant,NM_007294.4(BRCA1):c.548-17G>T,BRCA1,Benign,17,41249323,41249323,reviewed by expert panel
+46232,single nucleotide variant,NM_007294.4(BRCA1):c.548-18T>G,BRCA1,Likely benign,17,41249324,41249324,"criteria provided, multiple submitters, no conflicts"
+46233,single nucleotide variant,NM_007294.4(BRCA1):c.548-3T>C,BRCA1,Conflicting classifications of pathogenicity,17,41249309,41249309,"criteria provided, conflicting classifications"
+46234,Deletion,NM_007294.4(BRCA1):c.548-9del,BRCA1,Conflicting classifications of pathogenicity,17,41249315,41249315,"criteria provided, conflicting classifications"
+46235,single nucleotide variant,NM_007294.4(BRCA1):c.5509T>C (p.Trp1837Arg),BRCA1,Pathogenic,17,41197778,41197778,reviewed by expert panel
+46236,single nucleotide variant,NM_007294.4(BRCA1):c.5511G>T (p.Trp1837Cys),BRCA1,Pathogenic/Likely pathogenic,17,41197776,41197776,"criteria provided, multiple submitters, no conflicts"
+46237,single nucleotide variant,NM_007294.4(BRCA1):c.5521A>C (p.Ser1841Arg),BRCA1,Likely pathogenic,17,41197766,41197766,"criteria provided, multiple submitters, no conflicts"
+46238,Deletion,NM_007294.4(BRCA1):c.5565_5573del (p.Gln1857_Pro1859del),BRCA1,Conflicting classifications of pathogenicity,17,41197714,41197722,"criteria provided, conflicting classifications"
+46239,Duplication,NM_007294.4(BRCA1):c.5578dup (p.His1860fs),BRCA1,Conflicting classifications of pathogenicity,17,41197708,41197709,"criteria provided, conflicting classifications"
+46240,single nucleotide variant,NM_007294.4(BRCA1):c.571G>A (p.Val191Ile),BRCA1,Benign,17,41249283,41249283,reviewed by expert panel
+46241,single nucleotide variant,NM_007294.4(BRCA1):c.593+9A>G,BRCA1,Conflicting classifications of pathogenicity,17,41249252,41249252,"criteria provided, conflicting classifications"
+46242,single nucleotide variant,NM_007294.4(BRCA1):c.594-2A>C,BRCA1,Benign,17,41247941,41247941,reviewed by expert panel
+46245,single nucleotide variant,NM_007294.4(BRCA1):c.641A>G (p.Asp214Gly),BRCA1,Benign,17,41247892,41247892,reviewed by expert panel
+46246,single nucleotide variant,NM_007294.4(BRCA1):c.661G>T (p.Ala221Ser),BRCA1,Conflicting classifications of pathogenicity,17,41247872,41247872,"criteria provided, conflicting classifications"
+46247,Duplication,NM_007294.4(BRCA1):c.66dup (p.Glu23fs),BRCA1,Pathogenic,17,41276047,41276048,reviewed by expert panel
+46248,single nucleotide variant,NM_007294.4(BRCA1):c.670+8C>T,BRCA1,Conflicting classifications of pathogenicity,17,41247855,41247855,"criteria provided, conflicting classifications"
+46249,Deletion,NM_007294.4(BRCA1):c.676del (p.Cys226fs),BRCA1,Pathogenic,17,41246872,41246872,reviewed by expert panel
+46251,Deletion,NM_007294.4(BRCA1):c.697_698del (p.Val233fs),BRCA1,Pathogenic,17,41246850,41246851,reviewed by expert panel
+46252,single nucleotide variant,NM_007294.4(BRCA1):c.745A>T (p.Thr249Ser),BRCA1,Conflicting classifications of pathogenicity,17,41246803,41246803,"criteria provided, conflicting classifications"
+46253,single nucleotide variant,NM_007294.4(BRCA1):c.783T>G (p.Tyr261Ter),BRCA1,Pathogenic,17,41246765,41246765,reviewed by expert panel
+46254,Deletion,NM_007294.4(BRCA1):c.798_799del (p.Ser267fs),BRCA1,Pathogenic,17,41246749,41246750,reviewed by expert panel
+46255,Deletion,NM_007294.4(BRCA1):c.81-11del,BRCA1,Benign,17,41267807,41267807,reviewed by expert panel
+46256,single nucleotide variant,NM_007294.4(BRCA1):c.81-13C>A,BRCA1,Benign/Likely benign,17,41267809,41267809,"criteria provided, multiple submitters, no conflicts"
+46257,single nucleotide variant,NM_007294.4(BRCA1):c.81-13C>G,BRCA1,Benign,17,41267809,41267809,reviewed by expert panel
+46258,single nucleotide variant,NM_007294.4(BRCA1):c.81-14C>T,BRCA1,Benign,17,41267810,41267810,reviewed by expert panel
+46259,single nucleotide variant,NM_007294.4(BRCA1):c.81-6T>C,BRCA1,Conflicting classifications of pathogenicity,17,41267802,41267802,"criteria provided, conflicting classifications"
+46261,Insertion,NM_007294.3(BRCA1):c.824_825ins10 (p.?),BRCA1,Pathogenic,17,41246723,41246724,no assertion criteria provided
+46262,single nucleotide variant,NM_007294.4(BRCA1):c.827C>G (p.Thr276Arg),BRCA1,Benign,17,41246721,41246721,reviewed by expert panel
+46263,single nucleotide variant,NM_007294.4(BRCA1):c.85G>T (p.Glu29Ter),BRCA1,Pathogenic,17,41267792,41267792,reviewed by expert panel
+46264,Deletion,NM_007294.4(BRCA1):c.929del (p.Gln310fs),BRCA1,Pathogenic,17,41246619,41246619,reviewed by expert panel
+46265,single nucleotide variant,NM_007294.4(BRCA1):c.946A>G (p.Ser316Gly),BRCA1,Benign,17,41246602,41246602,reviewed by expert panel
+46266,Deletion,NM_007294.4(BRCA1):c.952_1015del (p.His318fs),BRCA1,Pathogenic,17,41246533,41246596,reviewed by expert panel
+46267,single nucleotide variant,NM_007294.4(BRCA1):c.956A>G (p.Asn319Ser),BRCA1,Conflicting classifications of pathogenicity,17,41246592,41246592,"criteria provided, conflicting classifications"
+46268,single nucleotide variant,NM_007294.4(BRCA1):c.962G>A (p.Trp321Ter),BRCA1,Pathogenic,17,41246586,41246586,reviewed by expert panel
+46269,single nucleotide variant,NM_007294.4(BRCA1):c.988G>A (p.Asp330Asn),BRCA1,Conflicting classifications of pathogenicity,17,41246560,41246560,"criteria provided, conflicting classifications"
+46270,single nucleotide variant,NM_000059.4(BRCA2):c.-15A>C,BRCA2,Benign/Likely benign,13,32890583,32890583,"criteria provided, multiple submitters, no conflicts"
+46271,Microsatellite,NM_000059.4(BRCA2):c.-39-12_-39-10del,BRCA2,Conflicting classifications of pathogenicity,13,32890547,32890549,"criteria provided, conflicting classifications"
+46272,single nucleotide variant,NC_000013.11:g.32316402T>C,BRCA2,Likely benign,13,32890539,32890539,"criteria provided, single submitter"
+46273,single nucleotide variant,NM_000059.4(BRCA2):c.-9T>C,BRCA2,Conflicting classifications of pathogenicity,13,32890589,32890589,"criteria provided, conflicting classifications"
+46274,single nucleotide variant,NM_000059.4(BRCA2):c.10024G>A (p.Glu3342Lys),BRCA2,Conflicting classifications of pathogenicity,13,32972674,32972674,"criteria provided, conflicting classifications"
+46275,single nucleotide variant,NM_000059.4(BRCA2):c.10045A>G (p.Thr3349Ala),BRCA2,Benign,13,32972695,32972695,reviewed by expert panel
+46276,single nucleotide variant,NM_000059.4(BRCA2):c.10111A>G (p.Thr3371Ala),BRCA2,Benign/Likely benign,13,32972761,32972761,"criteria provided, multiple submitters, no conflicts"
+46277,single nucleotide variant,NM_000059.4(BRCA2):c.10153C>T (p.Arg3385Cys),BRCA2,Benign/Likely benign,13,32972803,32972803,"criteria provided, multiple submitters, no conflicts"
+46278,single nucleotide variant,NM_000059.4(BRCA2):c.10154G>A (p.Arg3385His),BRCA2,Conflicting classifications of pathogenicity,13,32972804,32972804,"criteria provided, conflicting classifications"
+46279,Deletion,NM_000059.4(BRCA2):c.10176del (p.Glu3393fs),BRCA2,Conflicting classifications of pathogenicity,13,32972824,32972824,"criteria provided, conflicting classifications"
+46280,Deletion,NM_000059.4(BRCA2):c.1029del (p.Lys343fs),BRCA2,Pathogenic,13,32906640,32906640,reviewed by expert panel
+46281,Duplication,NM_000059.4(BRCA2):c.1054dup (p.Tyr352fs),BRCA2,Pathogenic,13,32906668,32906669,reviewed by expert panel
+46282,Deletion,NM_000059.4(BRCA2):c.1156del (p.Glu386fs),BRCA2,Pathogenic,13,32906770,32906770,reviewed by expert panel
+46283,single nucleotide variant,NM_000059.4(BRCA2):c.1166C>T (p.Pro389Leu),BRCA2,Conflicting classifications of pathogenicity,13,32906781,32906781,"criteria provided, conflicting classifications"
+46284,Insertion,NM_000059.3(BRCA2):c.1189_1190ins4,BRCA2,Pathogenic,13,32906804,32906805,"criteria provided, single submitter"
+46285,single nucleotide variant,NM_000059.4(BRCA2):c.1199T>C (p.Leu400Pro),BRCA2,Conflicting classifications of pathogenicity,13,32906814,32906814,"criteria provided, conflicting classifications"
+46286,Deletion,NM_000059.4(BRCA2):c.1205del (p.Gly402fs),BRCA2,Pathogenic,13,32906819,32906819,reviewed by expert panel
+46287,Deletion,NM_000059.4(BRCA2):c.1238del (p.Leu413fs),BRCA2,Pathogenic,13,32906853,32906853,reviewed by expert panel
+46288,single nucleotide variant,NM_000059.4(BRCA2):c.1253C>A (p.Ser418Ter),BRCA2,Pathogenic,13,32906868,32906868,reviewed by expert panel
+46289,Deletion,NM_000059.4(BRCA2):c.1257del (p.Cys419fs),BRCA2,Pathogenic,13,32906872,32906872,reviewed by expert panel
+46290,single nucleotide variant,NM_000059.4(BRCA2):c.125A>G (p.Tyr42Cys),BRCA2,Benign,13,32893271,32893271,reviewed by expert panel
+46291,Deletion,NM_000059.4(BRCA2):c.1265del (p.Asn422fs),BRCA2,Pathogenic,13,32906877,32906877,reviewed by expert panel
+46292,Microsatellite,NM_000059.4(BRCA2):c.1296_1297del (p.Asn433fs),BRCA2,Pathogenic,13,32906908,32906909,reviewed by expert panel
+46293,Microsatellite,NM_000059.4(BRCA2):c.1310_1313del (p.Lys437fs),BRCA2,Pathogenic,13,32906916,32906919,reviewed by expert panel
+46294,single nucleotide variant,NM_000059.4(BRCA2):c.1385A>G (p.Glu462Gly),BRCA2,Benign,13,32907000,32907000,reviewed by expert panel
+46295,single nucleotide variant,NM_000059.4(BRCA2):c.1427C>G (p.Ser476Cys),BRCA2,Conflicting classifications of pathogenicity,13,32907042,32907042,"criteria provided, conflicting classifications"
+46296,single nucleotide variant,NM_000059.4(BRCA2):c.1438T>C (p.Cys480Arg),BRCA2,Conflicting classifications of pathogenicity,13,32907053,32907053,"criteria provided, conflicting classifications"
+46297,single nucleotide variant,NM_000059.4(BRCA2):c.1460C>A (p.Ala487Glu),BRCA2,Conflicting classifications of pathogenicity,13,32907075,32907075,"criteria provided, conflicting classifications"
+46298,single nucleotide variant,NM_000059.4(BRCA2):c.1472C>G (p.Thr491Ser),BRCA2,Conflicting classifications of pathogenicity,13,32907087,32907087,"criteria provided, conflicting classifications"
+46299,single nucleotide variant,NM_000059.4(BRCA2):c.1487C>T (p.Ser496Phe),BRCA2,Conflicting classifications of pathogenicity,13,32907102,32907102,"criteria provided, conflicting classifications"
+46300,single nucleotide variant,NM_000059.4(BRCA2):c.1513A>G (p.Ile505Val),BRCA2,Likely benign,13,32907128,32907128,"criteria provided, multiple submitters, no conflicts"
+46301,single nucleotide variant,NM_000059.4(BRCA2):c.1550A>G (p.Asn517Ser),BRCA2,Conflicting classifications of pathogenicity,13,32907165,32907165,"criteria provided, conflicting classifications"
+46302,single nucleotide variant,NM_000059.4(BRCA2):c.1564G>C (p.Gly522Arg),BRCA2,Conflicting classifications of pathogenicity,13,32907179,32907179,"criteria provided, conflicting classifications"
+46303,single nucleotide variant,NM_000059.4(BRCA2):c.1574C>T (p.Thr525Ile),BRCA2,Conflicting classifications of pathogenicity,13,32907189,32907189,"criteria provided, conflicting classifications"
+46304,Duplication,NM_000059.4(BRCA2):c.1593dup (p.Glu532fs),BRCA2,Pathogenic,13,32907202,32907203,reviewed by expert panel
+46305,single nucleotide variant,NM_000059.4(BRCA2):c.1600G>A (p.Glu534Lys),BRCA2,Conflicting classifications of pathogenicity,13,32907215,32907215,"criteria provided, conflicting classifications"
+46306,single nucleotide variant,NM_000059.4(BRCA2):c.1625T>C (p.Ile542Thr),BRCA2,Conflicting classifications of pathogenicity,13,32907240,32907240,"criteria provided, conflicting classifications"
+46307,single nucleotide variant,NM_000059.4(BRCA2):c.167A>C (p.Asn56Thr),BRCA2,Benign,13,32893313,32893313,reviewed by expert panel
+46308,single nucleotide variant,NM_000059.4(BRCA2):c.1705C>A (p.Gln569Lys),BRCA2,Conflicting classifications of pathogenicity,13,32907320,32907320,"criteria provided, conflicting classifications"
+46309,single nucleotide variant,NM_000059.4(BRCA2):c.1744A>C (p.Thr582Pro),BRCA2,Benign,13,32907359,32907359,reviewed by expert panel
+46310,Deletion,NM_000059.4(BRCA2):c.1755_1759del (p.Lys585fs),BRCA2,Pathogenic,13,32907366,32907370,reviewed by expert panel
+46311,single nucleotide variant,NM_000059.4(BRCA2):c.1756A>G (p.Lys586Glu),BRCA2,Conflicting classifications of pathogenicity,13,32907371,32907371,"criteria provided, conflicting classifications"
+46312,Deletion,NM_000059.4(BRCA2):c.1796_1800del (p.Thr598_Ser599insTer),BRCA2,Pathogenic,13,32907409,32907413,reviewed by expert panel
+46313,single nucleotide variant,NM_000059.4(BRCA2):c.1799A>G (p.Tyr600Cys),BRCA2,Conflicting classifications of pathogenicity,13,32907414,32907414,"criteria provided, conflicting classifications"
+46314,single nucleotide variant,NM_000059.4(BRCA2):c.179A>G (p.Asn60Ser),BRCA2,Conflicting classifications of pathogenicity,13,32893325,32893325,"criteria provided, conflicting classifications"
+46315,single nucleotide variant,NM_000059.4(BRCA2):c.1800T>A (p.Tyr600Ter),BRCA2,Pathogenic,13,32907415,32907415,reviewed by expert panel
+46316,single nucleotide variant,NM_000059.4(BRCA2):c.1810A>G (p.Lys604Glu),BRCA2,Benign,13,32907425,32907425,reviewed by expert panel
+46318,Duplication,NM_000059.4(BRCA2):c.1813dup (p.Ile605fs),BRCA2,Pathogenic,13,32907428,32907428,reviewed by expert panel
+46319,Deletion,NM_000059.4(BRCA2):c.1813del (p.Ile605fs),BRCA2,Pathogenic,13,32907421,32907421,reviewed by expert panel
+46320,single nucleotide variant,NM_000059.4(BRCA2):c.1832C>A (p.Ser611Ter),BRCA2,Pathogenic,13,32907447,32907447,reviewed by expert panel
+46321,single nucleotide variant,NM_000059.4(BRCA2):c.1850C>A (p.Ser617Ter),BRCA2,Pathogenic,13,32907465,32907465,reviewed by expert panel
+46322,single nucleotide variant,NM_000059.4(BRCA2):c.1850C>G (p.Ser617Ter),BRCA2,Pathogenic,13,32907465,32907465,reviewed by expert panel
+46323,single nucleotide variant,NM_000059.4(BRCA2):c.1865C>T (p.Ala622Val),BRCA2,Benign,13,32907480,32907480,reviewed by expert panel
+46324,single nucleotide variant,NM_000059.4(BRCA2):c.1889C>T (p.Thr630Ile),BRCA2,Benign,13,32907504,32907504,reviewed by expert panel
+46325,Deletion,NM_000059.4(BRCA2):c.1929del (p.Arg645fs),BRCA2,Pathogenic,13,32910421,32910421,reviewed by expert panel
+46326,single nucleotide variant,NM_000059.4(BRCA2):c.1964C>G (p.Pro655Arg),BRCA2,Benign,13,32910456,32910456,reviewed by expert panel
+46327,single nucleotide variant,NM_000059.4(BRCA2):c.1970T>A (p.Leu657Ter),BRCA2,Pathogenic,13,32910462,32910462,reviewed by expert panel
+46328,single nucleotide variant,NM_000059.4(BRCA2):c.2026T>C (p.Cys676Arg),BRCA2,Conflicting classifications of pathogenicity,13,32910518,32910518,"criteria provided, conflicting classifications"
+46329,Deletion,NM_000059.4(BRCA2):c.2036del (p.Asn679fs),BRCA2,Pathogenic,13,32910527,32910527,reviewed by expert panel
+46330,Deletion,NM_000059.4(BRCA2):c.2092del (p.Leu698fs),BRCA2,Pathogenic,13,32910584,32910584,reviewed by expert panel
+46331,single nucleotide variant,NM_000059.4(BRCA2):c.2152G>A (p.Glu718Lys),BRCA2,Conflicting classifications of pathogenicity,13,32910644,32910644,"criteria provided, conflicting classifications"
+46332,Duplication,NM_000059.4(BRCA2):c.2175dup (p.Val726fs),BRCA2,Pathogenic,13,32910661,32910662,reviewed by expert panel
+46333,single nucleotide variant,NM_000059.4(BRCA2):c.2231C>G (p.Ser744Ter),BRCA2,Pathogenic,13,32910723,32910723,reviewed by expert panel
+46334,single nucleotide variant,NM_000059.4(BRCA2):c.2240A>G (p.Glu747Gly),BRCA2,Conflicting classifications of pathogenicity,13,32910732,32910732,"criteria provided, conflicting classifications"
+46335,single nucleotide variant,NM_000059.4(BRCA2):c.2281T>C (p.Tyr761His),BRCA2,Conflicting classifications of pathogenicity,13,32910773,32910773,"criteria provided, conflicting classifications"
+46336,single nucleotide variant,NM_000059.4(BRCA2):c.229A>G (p.Thr77Ala),BRCA2,Uncertain significance,13,32893375,32893375,"criteria provided, multiple submitters, no conflicts"
+46337,single nucleotide variant,NM_000059.4(BRCA2):c.2320A>G (p.Thr774Ala),BRCA2,Conflicting classifications of pathogenicity,13,32910812,32910812,"criteria provided, conflicting classifications"
+46339,single nucleotide variant,NM_000059.4(BRCA2):c.235A>G (p.Ile79Val),BRCA2,Conflicting classifications of pathogenicity,13,32893381,32893381,"criteria provided, conflicting classifications"
+46340,single nucleotide variant,NM_000059.4(BRCA2):c.2409T>G (p.Tyr803Ter),BRCA2,Pathogenic,13,32910901,32910901,reviewed by expert panel
+46341,single nucleotide variant,NM_000059.4(BRCA2):c.241T>A (p.Phe81Ile),BRCA2,Conflicting classifications of pathogenicity,13,32893387,32893387,"criteria provided, conflicting classifications"
+46342,single nucleotide variant,NM_000059.4(BRCA2):c.2426T>G (p.Leu809Ter),BRCA2,Pathogenic,13,32910918,32910918,reviewed by expert panel
+46343,Duplication,NM_000059.4(BRCA2):c.2480dup (p.Asn827fs),BRCA2,Pathogenic,13,32910968,32910969,reviewed by expert panel
+46344,single nucleotide variant,NM_000059.4(BRCA2):c.2491G>A (p.Val831Ile),BRCA2,Conflicting classifications of pathogenicity,13,32910983,32910983,"criteria provided, conflicting classifications"
+46345,single nucleotide variant,NM_000059.4(BRCA2):c.2507C>T (p.Pro836Leu),BRCA2,Conflicting classifications of pathogenicity,13,32910999,32910999,"criteria provided, conflicting classifications"
+46346,single nucleotide variant,NM_000059.4(BRCA2):c.2555A>G (p.Asn852Ser),BRCA2,Conflicting classifications of pathogenicity,13,32911047,32911047,"criteria provided, conflicting classifications"
+46347,single nucleotide variant,NM_000059.4(BRCA2):c.2572A>G (p.Arg858Gly),BRCA2,Conflicting classifications of pathogenicity,13,32911064,32911064,"criteria provided, conflicting classifications"
+46349,Duplication,NM_000059.4(BRCA2):c.2588dup (p.Asn863fs),BRCA2,Pathogenic,13,32911080,32911080,reviewed by expert panel
+46350,single nucleotide variant,NM_000059.4(BRCA2):c.2589T>A (p.Asn863Lys),BRCA2,Conflicting classifications of pathogenicity,13,32911081,32911081,"criteria provided, conflicting classifications"
+46351,Deletion,NM_000059.4(BRCA2):c.2618_2619del (p.Ile873fs),BRCA2,Pathogenic,13,32911109,32911110,reviewed by expert panel
+46352,Deletion,NM_000059.4(BRCA2):c.2658_2659del (p.Asn886fs),BRCA2,Pathogenic,13,32911150,32911151,reviewed by expert panel
+46353,single nucleotide variant,NM_000059.4(BRCA2):c.2693G>C (p.Arg898Thr),BRCA2,Uncertain significance,13,32911185,32911185,"criteria provided, single submitter"
+46354,single nucleotide variant,NM_000059.4(BRCA2):c.2716A>G (p.Thr906Ala),BRCA2,Conflicting classifications of pathogenicity,13,32911208,32911208,"criteria provided, conflicting classifications"
+46355,single nucleotide variant,NM_000059.4(BRCA2):c.274C>T (p.Gln92Ter),BRCA2,Pathogenic,13,32893420,32893420,reviewed by expert panel
+46356,single nucleotide variant,NM_000059.4(BRCA2):c.2758C>A (p.Pro920Thr),BRCA2,Conflicting classifications of pathogenicity,13,32911250,32911250,"criteria provided, conflicting classifications"
+46357,single nucleotide variant,NM_000059.4(BRCA2):c.2803G>C (p.Asp935His),BRCA2,Benign,13,32911295,32911295,reviewed by expert panel
+46359,single nucleotide variant,NM_000059.4(BRCA2):c.280C>T (p.Pro94Ser),BRCA2,Conflicting classifications of pathogenicity,13,32893426,32893426,"criteria provided, conflicting classifications"
+46360,single nucleotide variant,NM_000059.4(BRCA2):c.2818C>T (p.Gln940Ter),BRCA2,Pathogenic,13,32911310,32911310,reviewed by expert panel
+46361,single nucleotide variant,NM_000059.4(BRCA2):c.2827A>G (p.Ile943Val),BRCA2,Conflicting classifications of pathogenicity,13,32911319,32911319,"criteria provided, conflicting classifications"
+46362,single nucleotide variant,NM_000059.4(BRCA2):c.2908G>A (p.Asp970Asn),BRCA2,Conflicting classifications of pathogenicity,13,32911400,32911400,"criteria provided, conflicting classifications"
+46363,single nucleotide variant,NM_000059.4(BRCA2):c.2918C>T (p.Ser973Leu),BRCA2,Conflicting classifications of pathogenicity,13,32911410,32911410,"criteria provided, conflicting classifications"
+46364,single nucleotide variant,NM_000059.4(BRCA2):c.2937A>G (p.Ile979Met),BRCA2,Conflicting classifications of pathogenicity,13,32911429,32911429,"criteria provided, conflicting classifications"
+46365,single nucleotide variant,NM_000059.4(BRCA2):c.2938G>T (p.Asp980Tyr),BRCA2,Conflicting classifications of pathogenicity,13,32911430,32911430,"criteria provided, conflicting classifications"
+46366,single nucleotide variant,NM_000059.4(BRCA2):c.2946A>G (p.Ile982Met),BRCA2,Conflicting classifications of pathogenicity,13,32911438,32911438,"criteria provided, conflicting classifications"
+46367,Insertion,NM_000059.4(BRCA2):c.2957_2958insG (p.Asn986fs),BRCA2,Pathogenic,13,32911449,32911450,reviewed by expert panel
+46368,single nucleotide variant,NM_000059.4(BRCA2):c.2979G>A (p.Trp993Ter),BRCA2,Pathogenic,13,32911471,32911471,reviewed by expert panel
+46369,single nucleotide variant,NM_000059.4(BRCA2):c.2984G>C (p.Gly995Ala),BRCA2,Conflicting classifications of pathogenicity,13,32911476,32911476,"criteria provided, conflicting classifications"
+46370,Microsatellite,NM_000059.4(BRCA2):c.3009_3010del (p.His1003fs),BRCA2,Pathogenic,13,32911499,32911500,reviewed by expert panel
+46371,single nucleotide variant,NM_000059.4(BRCA2):c.3032C>G (p.Thr1011Arg),BRCA2,Conflicting classifications of pathogenicity,13,32911524,32911524,"criteria provided, conflicting classifications"
+46372,single nucleotide variant,NM_000059.4(BRCA2):c.303C>A (p.Phe101Leu),BRCA2,Uncertain significance,13,32893449,32893449,"criteria provided, multiple submitters, no conflicts"
+46373,single nucleotide variant,NM_000059.4(BRCA2):c.3055C>G (p.Leu1019Val),BRCA2,Benign,13,32911547,32911547,reviewed by expert panel
+46374,single nucleotide variant,NM_000059.4(BRCA2):c.3073A>T (p.Lys1025Ter),BRCA2,Pathogenic,13,32911565,32911565,reviewed by expert panel
+46375,single nucleotide variant,NM_000059.4(BRCA2):c.3109C>T (p.Gln1037Ter),BRCA2,Pathogenic,13,32911601,32911601,reviewed by expert panel
+46376,single nucleotide variant,NM_000059.4(BRCA2):c.3158T>G (p.Leu1053Ter),BRCA2,Pathogenic,13,32911650,32911650,reviewed by expert panel
+46377,single nucleotide variant,NC_000013.11:g.32319335G>A,BRCA2,Likely benign,13,32893472,32893472,"criteria provided, single submitter"
+46378,single nucleotide variant,NM_000059.4(BRCA2):c.316+1G>A,BRCA2,Pathogenic/Likely pathogenic,13,32893463,32893463,"criteria provided, multiple submitters, no conflicts"
+46379,single nucleotide variant,NM_000059.4(BRCA2):c.316+1G>C,BRCA2,Pathogenic,13,32893463,32893463,"criteria provided, single submitter"
+46380,Deletion,NM_000059.4(BRCA2):c.3160_3163del (p.Asp1054fs),BRCA2,Pathogenic,13,32911650,32911653,reviewed by expert panel
+46381,single nucleotide variant,NM_000059.4(BRCA2):c.317-10A>G,BRCA2,Conflicting classifications of pathogenicity,13,32899203,32899203,"criteria provided, conflicting classifications"
+46382,Deletion,NM_000059.4(BRCA2):c.3170_3174del (p.Lys1057fs),BRCA2,Pathogenic,13,32911659,32911663,reviewed by expert panel
+46383,Deletion,NM_000059.4(BRCA2):c.3182del (p.Lys1061fs),BRCA2,Pathogenic,13,32911673,32911673,reviewed by expert panel
+46384,single nucleotide variant,NM_000059.4(BRCA2):c.3218A>G (p.Gln1073Arg),BRCA2,Conflicting classifications of pathogenicity,13,32911710,32911710,"criteria provided, conflicting classifications"
+46385,single nucleotide variant,NM_000059.4(BRCA2):c.3262C>T (p.Pro1088Ser),BRCA2,Conflicting classifications of pathogenicity,13,32911754,32911754,"criteria provided, conflicting classifications"
+46386,Duplication,NM_000059.4(BRCA2):c.3264dup (p.Gln1089fs),BRCA2,Pathogenic,13,32911755,32911756,reviewed by expert panel
+46388,single nucleotide variant,NM_000059.4(BRCA2):c.3299A>T (p.Asn1100Ile),BRCA2,Conflicting classifications of pathogenicity,13,32911791,32911791,"criteria provided, conflicting classifications"
+46389,single nucleotide variant,NM_000059.4(BRCA2):c.3304A>T (p.Asn1102Tyr),BRCA2,Benign,13,32911796,32911796,reviewed by expert panel
+46390,single nucleotide variant,NM_000059.4(BRCA2):c.3308T>G (p.Leu1103Ter),BRCA2,Pathogenic,13,32911800,32911800,reviewed by expert panel
+46391,single nucleotide variant,NM_000059.4(BRCA2):c.3321A>C (p.Gln1107His),BRCA2,Conflicting classifications of pathogenicity,13,32911813,32911813,"criteria provided, conflicting classifications"
+46392,single nucleotide variant,NM_000059.4(BRCA2):c.3330A>G (p.Glu1110=),BRCA2,Likely benign,13,32911822,32911822,reviewed by expert panel
+46393,single nucleotide variant,NM_000059.4(BRCA2):c.3349A>G (p.Ile1117Val),BRCA2,Conflicting classifications of pathogenicity,13,32911841,32911841,"criteria provided, conflicting classifications"
+46394,single nucleotide variant,NM_000059.4(BRCA2):c.3395A>G (p.Lys1132Arg),BRCA2,Conflicting classifications of pathogenicity,13,32911887,32911887,"criteria provided, conflicting classifications"
+46395,single nucleotide variant,NM_000059.4(BRCA2):c.3422C>T (p.Thr1141Ile),BRCA2,Conflicting classifications of pathogenicity,13,32911914,32911914,"criteria provided, conflicting classifications"
+46396,single nucleotide variant,NM_000059.4(BRCA2):c.3437A>G (p.Glu1146Gly),BRCA2,Conflicting classifications of pathogenicity,13,32911929,32911929,"criteria provided, conflicting classifications"
+46397,single nucleotide variant,NM_000059.4(BRCA2):c.3443A>G (p.Gln1148Arg),BRCA2,Conflicting classifications of pathogenicity,13,32911935,32911935,"criteria provided, conflicting classifications"
+46398,single nucleotide variant,NM_000059.4(BRCA2):c.3453C>G (p.Ile1151Met),BRCA2,Conflicting classifications of pathogenicity,13,32911945,32911945,"criteria provided, conflicting classifications"
+46399,single nucleotide variant,NM_000059.4(BRCA2):c.348T>G (p.Ser116Arg),BRCA2,Uncertain significance,13,32899244,32899244,"criteria provided, multiple submitters, no conflicts"
+46400,single nucleotide variant,NM_000059.4(BRCA2):c.3509C>T (p.Ala1170Val),BRCA2,Conflicting classifications of pathogenicity,13,32912001,32912001,"criteria provided, conflicting classifications"
+46401,single nucleotide variant,NM_000059.4(BRCA2):c.353G>A (p.Arg118His),BRCA2,Conflicting classifications of pathogenicity,13,32899249,32899249,"criteria provided, conflicting classifications"
+46402,Deletion,NM_000059.4(BRCA2):c.3545_3546del (p.Gln1181_Phe1182insTer),BRCA2,Pathogenic,13,32912036,32912037,reviewed by expert panel
+46403,single nucleotide variant,NM_000059.4(BRCA2):c.3569G>A (p.Arg1190Gln),BRCA2,Conflicting classifications of pathogenicity,13,32912061,32912061,"criteria provided, conflicting classifications"
+46404,single nucleotide variant,NM_000059.4(BRCA2):c.3620A>G (p.Tyr1207Cys),BRCA2,Conflicting classifications of pathogenicity,13,32912112,32912112,"criteria provided, conflicting classifications"
+46405,single nucleotide variant,NC_000013.11:g.32337984A>C,BRCA2,Uncertain significance,13,32912121,32912121,no assertion criteria provided
