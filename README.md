@@ -59,10 +59,10 @@ Included genes:
 ## Screeshots
 
 ### Variants per Gene
-![Variants per Gene](variants_per_gene.png)
+<img src="variants_per_gene.png" width="700" >
 
 ### Clinical Significance
-![Clinical Significance](clinical_siginificance.png)
+<img src="clinical_significance.png" width="700" >
 ## Data Source
 
 ClinVar - National Center for Biotechnology Information (NCBI)
