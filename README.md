@@ -56,6 +56,13 @@ Included genes:
 - Export reports
 - Create graphical visualizations
 
+## Screeshots
+
+### Variants per Gene
+![Variants per Gene](variants_per_gene.png)
+
+### Clinical Significance
+![Clinical Significance](clinical_siginificance.png)
 ## Data Source
 
 ClinVar - National Center for Biotechnology Information (NCBI)
