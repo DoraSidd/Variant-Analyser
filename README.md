@@ -56,19 +56,6 @@ Included genes:
 - Export reports
 - Create graphical visualizations
 
-## Screeshots
-
-### Variants per Gene
-<img src="variants_per_gene.png" width="700" >
-
-### Clinical Significance
-<img src="clinical_significance.png" width="700" >
-## Data Source
-
-ClinVar - National Center for Biotechnology Information (NCBI)
-
-https://www.ncbi.nlm.nih.gov/clinvar/
-
 ## Author
 
 Dora Sidiropoulou
